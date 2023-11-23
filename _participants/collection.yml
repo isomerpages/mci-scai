@@ -2,4 +2,5 @@ collections:
   participants:
     output: true
     order:
+      - SCAI Participants.md
       - Conference Directors.md
