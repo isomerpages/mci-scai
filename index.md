@@ -24,7 +24,7 @@ sections:
           url: /findings
       variant: image
   - infopic:
-      title: Global AI challenges in the world today
+      title: Top AI challenges in the world today
       id: infopic
       description: Explore the crucial challenges in AI adoption and innovation
         essential for unlocking its full potential.
