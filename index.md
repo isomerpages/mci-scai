@@ -23,4 +23,13 @@ sections:
           description: Delve into the findings
           url: /findings
       variant: image
+  - infopic:
+      title: Global AI challenges in the world today
+      id: infopic
+      description: Explore the crucial challenges in AI adoption and innovation
+        essential for unlocking its full potential.
+      button: FIND OUT MORE HERE
+      url: /findings
+      image: /images/Temp/Ai_banner.jpg
+      alt: Image alt text
 ---
