@@ -1,14 +1,14 @@
 logo: /images/SCAI_logo.png
 links:
-  - title: About
+  - title: Our Goal
     url: /about
-  - title: WHO'S ATTENDING
+  - title: The People
     url: /participants
-  - title: PROCEEDINGS
+  - title: The Process
     url: /proceedings
-  - title: OUTCOMES
+  - title: The Outcomes
     collection: outcomes
   - title: MEDIA HUB
     resource_room: true
-  - title: GALLERY
+  - title: Gallery
     collection: gallery
