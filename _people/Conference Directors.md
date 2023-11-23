@@ -4,6 +4,8 @@ permalink: /directors/
 variant: markdown
 description: ""
 ---
+## Directors of SCAI
+
 <div class="row" style="background-color: #00000;padding: 25px 0px 0px 20px"></div>
         
 <div class="row" style="background-color: #00000;padding: 25px 0px 0px 20px"></div>
