@@ -9,8 +9,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/Settings/scai_homepage_02.jpeg
       key_highlights:
         - title: THE GOAL
@@ -22,7 +20,7 @@ sections:
         - title: THE PROCESS
           description: Dive into the proceedings
           url: /proceedings
-        - title: THE OUTCOME
+        - title: THE OUTCOMES
           description: Delve into the findings
           url: /findings
       variant: image
