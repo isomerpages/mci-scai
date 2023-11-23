@@ -1,0 +1,4 @@
+collections:
+  outcomes:
+    output: true
+    order: []
