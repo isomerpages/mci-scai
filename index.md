@@ -23,7 +23,7 @@ sections:
           description: Delve into the findings
           url: /findings
         - title: THE PEOPLE
-          description: Key Highlight description
+          description: Meet the brain trust of SCAI
           url: /people
       variant: image
   - infopic:
