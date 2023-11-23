@@ -1,4 +1,5 @@
 collections:
   outcomes:
     output: true
-    order: []
+    order:
+      - Findings.md
