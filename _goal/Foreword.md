@@ -6,7 +6,7 @@ description: ""
 ---
 ## Foreword
 
-<div style="width:50%"><img src="/images/People/josephine_teo.jpg"></div>
+![Josephine Teo](/images/Temp/josephine_teo_02.jpg)
 
 **Josephine Teo**<br>
 Minister-in-charge of Smart Nation and Cybersecurity<br>
