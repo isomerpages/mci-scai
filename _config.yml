@@ -3,18 +3,18 @@ url: https://www.scai.gov.sg
 favicon: /images/scai_favicon.png
 colors:
   primary-color: "#132f4d"
-  secondary-color: "#ecb91e"
+  secondary-color: "#132f4d"
   media-colors:
     - title: media-color-one
-      color: "#234664"
+      color: "#ecb91e"
     - title: media-color-two
-      color: "#4b789b"
+      color: "#1e405e"
     - title: media-color-three
-      color: "#73a0c3"
+      color: "#4b789b"
     - title: media-color-four
-      color: "#96bedc"
+      color: "#73a0c3"
     - title: media-color-five
-      color: "#939393"
+      color: "#96bedc"
 description: The Singapore Conference on AI (SCAI) serves as a pivotal nexus,
   bringing together an international array of AI experts from diverse
   backgrounds in academia and industry.
