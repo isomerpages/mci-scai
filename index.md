@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: Singapore Conference on AI (SCAI)
-description: An Isomer site of the Singapore Government
+description: The Singapore Conference on AI (SCAI) serves as a pivotal nexus,
+  bringing together an international array of AI experts from diverse
+  backgrounds in academia and industry.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
