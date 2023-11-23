@@ -22,6 +22,9 @@ sections:
         - title: THE OUTCOME
           description: Delve into the findings
           url: /findings
+        - title: THE PEOPLE
+          description: Key Highlight description
+          url: /people
       variant: image
   - infopic:
       title: Top AI challenges in the world today
