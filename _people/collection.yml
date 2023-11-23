@@ -1,5 +1,5 @@
 collections:
-  participants:
+  people:
     output: true
     order:
       - SCAI Participants.md
