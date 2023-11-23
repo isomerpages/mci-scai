@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - About SCAI.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
