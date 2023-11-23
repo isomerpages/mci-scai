@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/Settings/scai_homepage_01.jpeg
+      background: /images/Settings/scai_homepage_02.jpeg
       key_highlights:
         - title: THE GOAL
           description: Find out more about SCAI
