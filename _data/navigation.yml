@@ -7,8 +7,8 @@ links:
   - title: PROCEEDINGS
     url: /proceedings
   - title: OUTCOMES
-    collection: about
+    collection: outcomes
   - title: MEDIA HUB
-    url: /media
+    resource_room: true
   - title: GALLERY
-    collection: about
+    collection: gallery
