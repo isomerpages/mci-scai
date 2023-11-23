@@ -16,15 +16,15 @@ sections:
         - title: THE GOAL
           description: Find out more about SCAI
           url: /about
+        - title: THE PEOPLE
+          description: Meet the brain trust of SCAI
+          url: /people
         - title: THE PROCESS
           description: Dive into the proceedings
           url: /proceedings
         - title: THE OUTCOME
           description: Delve into the findings
           url: /findings
-        - title: THE PEOPLE
-          description: Meet the brain trust of SCAI
-          url: /people
       variant: image
   - infopic:
       title: Top AI challenges in the world today
