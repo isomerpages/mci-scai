@@ -4,7 +4,7 @@ permalink: /people/
 variant: markdown
 description: ""
 ---
-## Who's attending?
+## Our brain trust of AI
 
 We are honoured to have the following participants contribute their expertise, insights, and experiences to the discussions at SCAI.
 
