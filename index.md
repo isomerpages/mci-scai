@@ -6,28 +6,21 @@ description: The Singapore Conference on AI (SCAI) serves as a pivotal nexus,
   backgrounds in academia and industry.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: THE GOAL
+          description: Find out more about SCAI
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: THE PROCESS
+          description: Dive into the proceedings
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: THE OUTCOME
+          description: Delve into the findings
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      variant: image
 ---
