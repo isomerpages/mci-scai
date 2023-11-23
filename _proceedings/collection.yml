@@ -1,4 +1,5 @@
 collections:
   proceedings:
     output: true
-    order: []
+    order:
+      - Proceedings.md
