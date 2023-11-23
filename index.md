@@ -15,12 +15,12 @@ sections:
       key_highlights:
         - title: THE GOAL
           description: Find out more about SCAI
-          url: https://google.com
+          url: /about
         - title: THE PROCESS
           description: Dive into the proceedings
-          url: https://gmail.com
+          url: /proceedings
         - title: THE OUTCOME
           description: Delve into the findings
-          url: /privacy/
+          url: /findings
       variant: image
 ---
