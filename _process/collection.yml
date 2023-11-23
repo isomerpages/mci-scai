@@ -2,4 +2,4 @@ collections:
   process:
     output: true
     order:
-      - Proceedings.md
+      - SCAI Proceedings.md
