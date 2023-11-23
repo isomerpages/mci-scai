@@ -1,4 +1,5 @@
 collections:
   participants:
     output: true
-    order: []
+    order:
+      - Conference Directors.md
