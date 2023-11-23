@@ -2,8 +2,8 @@ title: Singapore Conference on AI (SCAI)
 url: https://www.scai.gov.sg
 favicon: /images/scai_favicon.png
 colors:
-  primary-color: "#ecb91e"
-  secondary-color: "#132f4d"
+  primary-color: "#132f4d"
+  secondary-color: "#ecb91e"
   media-colors:
     - title: media-color-one
       color: "#234664"
