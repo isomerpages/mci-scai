@@ -29,8 +29,8 @@ sections:
   - infopic:
       title: Uncovering the key challenges in today's AI landscape
       id: infopic
-      description: Explore the crucial challenges in AI adoption and innovation
-        essential for unlocking its full potential.
+      description: Examine the pivotal challenges in AI adoption and innovation that
+        are key to unlocking its full potential.
       button: FIND OUT MORE HERE
       url: /findings
       image: /images/Temp/Ai_banner.jpg
