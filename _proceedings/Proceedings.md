@@ -1,6 +1,8 @@
 ---
 title: Proceedings
 permalink: /proceedings/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+## For the Global Good
+
