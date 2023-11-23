@@ -1,8 +1,14 @@
 logo: /images/SCAI_logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About
+    url: /about
+  - title: WHO'S ATTENDING
+    url: /participants
+  - title: PROCEEDINGS
+    url: /proceedings
+  - title: OUTCOMES
+    collection: about
+  - title: MEDIA HUB
+    url: /media
+  - title: GALLERY
     collection: about
