@@ -8,13 +8,13 @@ description: ""
 
 We are honoured to have the following participants contribute their expertise, insights, and experiences to the discussions at SCAI.
 
-* [Academia Representatives](#academia-representatives) 
-* [AI Company Representatives](#ai-company-representatives)
-* [Tech Firm and Venture Capital Representatives](#tech-firm-and-venture-capital-representatives)
-* [Other Participants](#other-participants)
+* [Academia](#academia) 
+* [AI Companies](#ai-companies)
+* [Tech Firms and Venture Capitals ](#tech-firms-and-venture-capitals)
+* [Others](#others)
 
 
-## Academia Representatives
+## Academia
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
@@ -120,7 +120,7 @@ We are honoured to have the following participants contribute their expertise, i
 
 </div>
 
-## AI Company Representatives
+## AI Companies
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
@@ -187,7 +187,7 @@ We are honoured to have the following participants contribute their expertise, i
 
 
 
-## Tech Firm and Venture Capital Representatives
+## Tech Firms and Venture Capitals
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
@@ -213,7 +213,7 @@ We are honoured to have the following participants contribute their expertise, i
 
 </div>
 
-## Other Participants
+## Others
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
