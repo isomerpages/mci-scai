@@ -6,12 +6,12 @@ description: ""
 ---
 ## Foreword
 
-![Josephine Teo](/images/People/josephine_teo.jpg)
+<div style="width:50%"><img src="/images/People/josephine_teo.jpg"></div>
 
 **Josephine Teo**<br>
 Minister-in-charge of Smart Nation and Cybersecurity<br>
 
-&gt; "Nibh mauris cursus mattis molestie a iaculis at erat pellentesque. Dolor morbi non arcu risus quis varius quam. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. Viverra vitae congue eu consequat ac felis donec et odio."
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: grey; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid grey">"Nibh mauris cursus mattis molestie a iaculis at erat pellentesque. Dolor morbi non arcu risus quis varius quam. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. Viverra vitae congue eu consequat ac felis donec et odio."</div>
 
 ### Dolor sit amet consectetur 
 
