@@ -2,4 +2,5 @@ collections:
   outcomes:
     output: true
     order:
+      - AI Challenge 01.md
       - Findings.md
