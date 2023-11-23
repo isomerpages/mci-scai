@@ -2,6 +2,6 @@ collections:
   outcomes:
     output: true
     order:
-      - AI Challenge 02.md
-      - AI Challenge 01.md
       - Findings.md
+      - AI Challenge 01.md
+      - AI Challenge 02.md
