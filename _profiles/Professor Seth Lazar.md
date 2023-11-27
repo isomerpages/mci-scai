@@ -4,7 +4,7 @@ permalink: /profiles/seth-lazar/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/participant.jpeg" alt="Professor Seth Lazar"></div>
+<div style="width:50%"><img src="/images/People/seth-lazar.jpeg" alt="Professor Seth Lazar"></div>
 
 **Professor Seth Lazar**<br>*Professor of Philosophy*<br>*Australian National University*<br>
 
