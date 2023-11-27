@@ -1,7 +1,7 @@
 logo: /images/SCAI_logo.png
 links:
   - title: The Goal
-    url: /about
+    collection: goal
   - title: THE PEOPLE
     collection: people
   - title: The Process
