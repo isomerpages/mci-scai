@@ -23,7 +23,7 @@ sections:
         - title: THE OUTCOMES
           description: Delve into the findings
           url: /findings
-      variant: floating
+      variant: center
       title: Singapore Conference on AI for the Global Good
       backgroundColor: gray
       alignment: left
