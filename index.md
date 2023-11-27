@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/scai_home_web.jpg
+      background: /images/scai_banner.jpg
       key_highlights:
         - title: THE GOAL
           description: Find out more about SCAI
