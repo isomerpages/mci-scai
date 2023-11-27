@@ -4,7 +4,7 @@ permalink: /profiles/wolfgang-maass/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/wolfgang-maass.jpeg" alt="Professor Wolfgang Maass"></div>
+<div style="width:50%"><img src="/images/People/wolfgang_maass.jpeg" alt="Professor Wolfgang Maass"></div>
 
 **Professor Wolfgang Maass**<br>*Professor of Computer Science, Director of the European Lab for Learning and Intelligent Systems-Unit Graz; Expert for brain-inspired AI and neuromorphic engineering*<br>
 
