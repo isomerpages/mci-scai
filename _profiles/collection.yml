@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Professor Ho Teck Hua.md
       - Dr HongJiang Zhang.md
       - Benedict Evan.md
       - Dr Yaodong Yang.md
