@@ -2,5 +2,6 @@ collections:
   profiles:
     output: true
     order:
+      - Dr Yaodong Yang.md
       - Dr HongJiang Zhang.md
       - Benedict Evan.md
