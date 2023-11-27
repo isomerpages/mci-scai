@@ -28,9 +28,10 @@ sections:
       alignment: left
       size: md
   - infobar:
-      title: For the Global Good
+      title: Singapore Conference on AI
       subtitle: 4 -6 December 2023
       id: infobar
+      description: For the Global Good
   - infopic:
       title: Uncover the key challenges in today's AI landscape
       id: infopic
