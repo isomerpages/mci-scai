@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Temp/scai_homepage_02.jpeg
+      background: /images/Temp/scai_temp_homepage.jpg
       key_highlights:
         - title: THE GOAL
           description: Find out more about SCAI
@@ -23,7 +23,11 @@ sections:
         - title: THE OUTCOMES
           description: Delve into the findings
           url: /findings
-      variant: image
+      variant: floating
+      title: Singapore Conference on AI for the Global Good
+      backgroundColor: gray
+      alignment: left
+      size: md
   - infopic:
       title: Uncovering the key challenges in today's AI landscape
       id: infopic
