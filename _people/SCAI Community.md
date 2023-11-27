@@ -39,10 +39,10 @@ We are honoured to have to have the following distinguished AI practitioners fro
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/wong-tien-yin/">
 	<img src="/images/People/wong_tien_yin.jpeg" alt="Professor Wong Tien Yin"></a><br><strong>Professor Wong Tien Yin</strong><br><span style="font-size:13px; line-height:14px"><em>Vice Provost, Tsinghua University; Founding Head and Chair Professor, Tsinghua Medicine; Senior Advisor, SingHealth &amp; Singapore National Eye Centre</em></span><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/wolfgang-maass/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/iqbal-dhaliwal/">
 	<img src="/images/People/iqbal_dhaliwal.jpeg" alt="Iqbal Dhaliwal"></a><br><strong>Iqbal Dhaliwal</strong><br><span style="font-size:13px; line-height:14px"><em>Global Executive Director, J-PAL, Massachusetts Institute of Technology</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/seth-lazar/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/silver-keskkula/">
 	<img src="/images/People/silver_keskkula.jpeg" alt="Silver Keskküla"></a><br><strong>Silver Keskküla</strong><br><span style="font-size:13px; line-height:14px"><em>CEO, trackAIanswers.com</em></span><br></div>
 	
 </div>
