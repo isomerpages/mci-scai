@@ -101,39 +101,39 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/nicholas-roy/">
 	<img src="/images/People/nicholas_roy.jpeg" alt="Professor Nicholas Roy"></a><br><strong>Professor Nicholas Roy</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Aeronautics and Astronautics, Massachusetts Institute of Technology</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/illyas-khan/">
 	<img src="/images/People/illyas_khan.jpeg" alt="Illyas Khan"></a><br><strong>Illyas Khan</strong><br><span style="font-size:13px; line-height:14px"><em>Founder, Chief Product Officer and Vice-Chairman of Quantinuum</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/nigel-shadbolt/">
 	<img src="/images/People/nigel_shadbolt.jpeg" alt="Sir Nigel Shadbolte"></a><br><strong>Sir Nigel Shadbolte</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Computer Science, University of Oxford</em></span><br></div>
 	
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/irene-solaiman/">
 	<img src="/images/People/irene_solaiman.jpeg" alt="Irene Solaiman"></a><br><strong>Irene Solaiman</strong><br><span style="font-size:13px; line-height:14px"><em>Head of Global Policy, Hugging Face</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/ryota-kanai/">
 	<img src="/images/People/ryota_kanai.jpeg" alt="Dr Ryota Kanai"></a><br><strong>Dr Ryota Kanai</strong><br><span style="font-size:13px; line-height:14px"><em>Founder &amp; CEO of Araya, Inc.</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/ramayya-krishnan/">
 	<img src="/images/People/ramayya_krishnan.jpeg" alt="Professor Ramayya Krishnan"></a><br><strong>Professor Ramayya Krishnan</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Management Science and Information Systems, Carnegie Mellon University</em></span><br></div>
 	
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/soujanya-poria/">
 	<img src="/images/People/soujanya_poria.jpeg" alt="Dr Soujanya Poria"></a><br><strong>Dr Soujanya Poria</strong><br><span style="font-size:13px; line-height:14px"><em>Assistant Professor of NLP, Singapore University of Technology and Design</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/dawn-song/">
 	<img src="/images/People/dawn_song.jpeg" alt="Professor Dawn Song"></a><br><strong>Professor Dawn Song</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Security/Privacy, AI/ML, University of California at Berkeley</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/leong-tze-yun/">
 	<img src="/images/People/leong_tze_yun.jpeg" alt="Professor Leong Tze Yun"></a><br><strong>Professor Leong Tze Yun</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Computer Science, National University of Singapore (NUS); Director, NUS Artificial Intelligence Laboratory
 </em></span><br></div>
 	
@@ -141,54 +141,52 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-
-	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/marietje-schaake/">
 	<img src="/images/People/marietje_schaake.jpeg" alt="Marietje Schaake"></a><br><strong>Marietje Schaake</strong><br><span style="font-size:13px; line-height:14px"><em>International Policy Fellow, Stanford Institute for Human-Centered Artificial Intelligence (HAI)</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/james-kondo/">
 	<img src="/images/People/james_kondo.jpeg" alt="James Kondo"></a><br><strong>James Kondo</strong><br><span style="font-size:13px; line-height:14px"><em>Senior Advisor, OpenAI</em></span><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/alan-qi/">
 	<img src="/images/People/alan_qi.jpeg" alt="Professor Alan Qi"></a><br><strong>Professor Alan Qi</strong><br><span style="font-size:13px; line-height:14px"><em>Chair Professor, Dean of AI3 institute of Fudan University</em></span><br></div>
 	
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/brian-tse/">
 	<img src="/images/People/brian_tse.jpeg" alt="Brian Tse"></a><br><strong>Brian Tse</strong><br><span style="font-size:13px; line-height:14px"><em>Founder and CEO, Concordia Consulting</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/baroness-joanna-shields/">
 	<img src="/images/People/baroness_joanna_shields.jpeg" alt="Baroness Joanna Shields"></a><br><strong>Baroness Joanna Shields</strong><br><span style="font-size:13px; line-height:14px"><em>CEO, Benevolent AI</em></span><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/wang-chiew-tan/">
 	<img src="/images/People/wang_chiew_tan.jpeg" alt="Dr Wang-Chiew Tan"></a><br><strong>Dr Wang-Chiew Tan</strong><br><span style="font-size:13px; line-height:14px"><em>AI Research Scientist, Meta</em></span><br></div>	
 
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/alex-smola/">
 	<img src="/images/People/alex_smola.jpeg" alt="Dr Alex Smola"></a><br><strong>Dr Alex Smola</strong><br><span style="font-size:13px; line-height:14px"><em>CEO and Co-Founder, Boson AI</em></span><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/dan-hendrycks/">
 	<img src="/images/People/dan_hendrycks.jpeg" alt="Dr Dan Hendrycks"></a><br><strong>Dr Dan Hendrycks</strong><br><span style="font-size:13px; line-height:14px"><em>Executive Director of the Center for AI Safety</em></span><br></div>	
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/andrew-critch/">
 	<img src="/images/People/andrew_critch.jpeg" alt="Dr Andrew Critch"></a><br><strong>Dr Andrew Critch</strong><br><span style="font-size:13px; line-height:14px"><em>CEO, Encultured</em></span><br></div>
 	
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/alondra-nelson/">
 	<img src="/images/People/alondra_nelson.jpeg" alt="Professor Alondra Nelson"></a><br><strong>Professor Alondra Nelson</strong><br><span style="font-size:13px; line-height:14px"><em>Harold F. Linder Professor of Social Science, Institute for Advanced Study</em></span><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/florian-ostmann/">
 	<img src="/images/People/florian_ostmann.jpeg" alt="Dr Florian Ostmann"></a><br><strong>Dr Florian Ostmann</strong><br><span style="font-size:13px; line-height:14px"><em>Head of AI Governance and Regulatory Innovation, The Alan Turing Institute</em></span><br></div>	
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/georgios-piliouras/">
 	<img src="/images/People/georgios_piliouras.jpeg" alt="Dr Georgios Piliouras"></a><br><strong>Dr Georgios Piliouras</strong><br><span style="font-size:13px; line-height:14px"><em>Associate Professor, Singapore University of Technology and Design; Senior Research Scientist, Google DeepMind</em></span><br></div>	
 
 </div>
