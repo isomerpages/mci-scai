@@ -4,7 +4,7 @@ permalink: /about/foreword/
 variant: markdown
 description: ""
 ---
-## Foreword
+## SCAI Foreword
 
 ![Josephine Teo](/images/Temp/josephine_teo_02.jpg)
 
