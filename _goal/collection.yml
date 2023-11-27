@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - About SCAI.md
-      - Foreword.md
+      - SCAI Foreword.md
