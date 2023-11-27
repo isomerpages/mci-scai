@@ -102,13 +102,13 @@ We are honoured to have to have the following distinguished AI practitioners fro
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
-	<img src="/images/People/nicholas_roy.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	<img src="/images/People/nicholas_roy.jpeg" alt="Professor Nicholas Roy"></a><br><strong>Professor Nicholas Roy</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Aeronautics and Astronautics, Massachusetts Institute of Technology</em></span><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
-	<img src="/images/People/illyas_khan.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	<img src="/images/People/illyas_khan.jpeg" alt="Illyas Khan"></a><br><strong>Illyas Khan</strong><br><span style="font-size:13px; line-height:14px"><em>Founder, Chief Product Officer and Vice-Chairman of Quantinuum</em></span><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
-	<img src="/images/People/nigel_shadbolt.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	<img src="/images/People/nigel_shadbolt.jpeg" alt="Sir Nigel Shadbolte"></a><br><strong>Sir Nigel Shadbolte</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Computer Science, University of Oxford</em></span><br></div>
 	
 </div>
 
