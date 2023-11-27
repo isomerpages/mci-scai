@@ -29,11 +29,11 @@ sections:
       alignment: left
       size: md
   - infopic:
-      title: Uncovering the key challenges in today's AI landscape
+      title: Uncover the key challenges in today's AI landscape
       id: infopic
-      description: Examine the pivotal challenges in AI adoption and innovation that
-        are key to unlocking its full potential.
-      button: FIND OUT MORE HERE
+      description: SCAI aims to examine the pivotal challenges in AI adoption and
+        innovation that are essential for unlocking its full potential.
+      button: Here's what our experts say
       url: /findings
       image: /images/Temp/Ai_banner.jpg
       alt: Image alt text
