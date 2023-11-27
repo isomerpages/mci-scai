@@ -4,7 +4,7 @@ permalink: /about/foreword/
 variant: markdown
 description: ""
 ---
-## SCAI Foreword
+## For the Global Good
 
 ![Josephine Teo](/images/Temp/josephine_teo_02.jpg)
 
