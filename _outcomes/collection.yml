@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Findings.md
-      - AI Challenge 01.md
