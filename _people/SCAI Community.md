@@ -59,3 +59,29 @@ We are honoured to have to have the following distinguished AI practitioners fro
 	<img src="/images/People/jutta_williams.jpeg" alt="Jutta Williams"></a><br><strong>Jutta Williams</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder and COO of Humane Intelligence</em></span><br></div>
 	
 </div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/chen-jiahao/">
+	<img src="/images/People/chen_jiahao.jpeg" alt="Dr Chen Jiahao"></a><br><strong>Dr Chen Jiahao</strong><br><span style="font-size:13px; line-height:14px"><em>Owner, Responsible AI LLC</em></span><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/calvin-chin/">
+	<img src="/images/People/calvin_chin.jpeg" alt="Calvin Chin"></a><br><strong>Calvin Chin</strong><br><span style="font-size:13px; line-height:14px"><em>Managing Partner, E14 Fund;  Affiliate, MIT Media Lab</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/pang-wei-koh/">
+	<img src="/images/People/pang_wei_koh.jpeg" alt="Professor Pang Wei Koh"></a><br><strong>Professor Pang Wei Koh</strong><br><span style="font-size:13px; line-height:14px"><em>Assistant Professor, Allen School of Computer Science &amp; Engineering, University of Washington</em></span><br></div>
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/joscha-bach/">
+	<img src="/images/People/joscha_bach.jpeg" alt="Dr Joscha Bach"></a><br><strong>Dr Joscha Bach</strong><br><span style="font-size:13px; line-height:14px"><em>AI Scientist, LiquidAI</em></span><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/joanna-bryson/">
+	<img src="/images/People/joanna_bryson.jpeg" alt="Professor Joanna J. Bryson"></a><br><strong>Professor Joanna J. Bryson</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Ethics and Technology, Hertie School of Governance</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/jaan-tallinn/">
+	<img src="/images/People/jaan_tallinn.jpeg" alt="Jaan Tallinn"></a><br><strong>Jaan Tallinn</strong><br><span style="font-size:13px; line-height:14px"><em>Assistant Professor, Allen School of Computer Science &amp; Engineering, University of Washington</em></span><br></div>
+	
+</div>
