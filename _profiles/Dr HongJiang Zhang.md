@@ -8,6 +8,8 @@ description: ""
 
 **Dr HongJiang Zhang**<br>*Chairman*<br>*Beijing Academy of Artificial Intelligence*<br>
 
+---
+
 Dr. HongJiang ZHANG is an experienced executive and world-renowned computer scientist and R&amp;D leader. He is currently a Venture Partner at Source Code Capital, a Senior Advisor of Carlyle Group and the Chairman of Academic Advisory Committee at Beijing Academy of Artificial Intelligence (a non-profit research institution). He also serves as independent non-executive directors on boards of three US and Hong Kong listed companies.
 
 Dr. Zhang was an Executive Director and the CEO of Kingsoft, and the founder and CEO of Kingsoft Cloud (NASDAQ: KC), one of the key players in China’s cloud computing market. Before Kingsoft, Dr. Zhang worked for Microsoft as Distinguished Scientists, Managing Director of Microsoft Advanced Technology Center, CTO of Microsoft Asia-Pacific Research and Development Group, and Assistant Managing Director of Microsoft Research Asia. Dr. Zhang also worked at HP Labs and Institute of Systems Science, National University of Singapore.
