@@ -33,7 +33,7 @@ sections:
       id: infopic
       description: SCAI aims to examine the pivotal challenges in AI adoption and
         innovation that are essential for unlocking its full potential.
-      button: Here's what our experts say
+      button: Find out what our experts say
       url: /findings
       image: /images/Temp/Ai_banner.jpg
       alt: Image alt text
