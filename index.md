@@ -24,7 +24,6 @@ sections:
           description: Delve into the findings
           url: /findings
       variant: image
-      title: Singapore Conference on AI for the Global Good
       backgroundColor: gray
       alignment: left
       size: md
