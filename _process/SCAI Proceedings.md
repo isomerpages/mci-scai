@@ -8,7 +8,9 @@ description: ""
 
 SCAI brings together a diverse group of experts for an in-depth dialogue on the key issues surrounding AI. 
 
-Throughout the three-day conference, our esteemed panel of experts employs a systematic funneling process to identify precise challenges within broad areas of concern that demand attention and resolution.
+Throughout the three-day conference, our esteemed panel of experts employs a systematic funnelling process to identify precise challenges within broad areas of concern that demand attention and resolution.
+
+![SCAI - Identifying the key challenges in AI](/images/Process/scai_approach.jpg)
 
 Every member of the SCAI community is given an equal opportunity to contribute and influence the direction of the conversation, facilitated by a structured voting process that ensures equitable representation.
 
