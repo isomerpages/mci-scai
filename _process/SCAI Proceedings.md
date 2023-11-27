@@ -4,7 +4,7 @@ permalink: /proceedings/
 variant: markdown
 description: ""
 ---
-## For the Global Good
+## Pinpointing the specific challenges in AI
 
 SCAI brings together a diverse group of experts for an in-depth dialogue on the key issues surrounding AI. 
 
