@@ -16,7 +16,7 @@ sections:
           url: /about
         - title: THE PEOPLE
           description: Meet the brain trust of AI
-          url: /people
+          url: /community
         - title: THE PROCESS
           description: Learn more about our approach
           url: /proceedings
