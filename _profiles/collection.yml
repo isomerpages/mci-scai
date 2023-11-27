@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Silver Keskküla.md
       - Iqbal Dhaliwal.md
       - Professor Wong Tien Yin.md
       - Professor Seth Lazar.md
