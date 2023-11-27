@@ -4,7 +4,7 @@ permalink: /profiles/benedict-evan/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/benedict-evan.jpeg" alt="Benedict Evan"></div>
+<div style="width:50%"><img src="/images/People/benedict_evan.jpeg" alt="Benedict Evan"></div>
 
 **Benedict Evan**<br>*Independent Analyst*<br>
 
