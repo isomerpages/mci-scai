@@ -15,3 +15,5 @@ Dr. Zhang was an Executive Director and the CEO of Kingsoft, and the founder and
 Dr. Zhang is a foreign member of US National Academy of Engineering, a Fellow of Institute of Electric and Electronic Engineers (IEEE) and Association of Computing Machines (ACM). He was the recipient of the 2010 IEEE Computer Society Technical Achievement Award, 2012 ACM SIGMM Outstanding Technical Achievement Award, and 2008 Asian American Engineer of the Year Award. He is among the world top (#1 in China) most influential researchers in computer science (H-Index=138), holds 150+ patents and has authored 4 books and over 400 papers.
 
 Dr. Zhang received a Ph.D. in Electrical Engineering from the Technical University of Denmark, and a Bachelor of Science degree from Zhengzhou University, China.
+
+[Return to list of SCAI community members](/community)
