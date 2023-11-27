@@ -15,10 +15,10 @@ sections:
           description: Find out more about SCAI
           url: /about
         - title: THE PEOPLE
-          description: Meet our brain trust of AI
+          description: Meet the brain trust of AI
           url: /people
         - title: THE PROCESS
-          description: Dive into the proceedings
+          description: Learn more about our approach
           url: /proceedings
         - title: THE OUTCOMES
           description: Delve into the findings
