@@ -192,3 +192,5 @@ We are honoured to have to have the following distinguished AI practitioners fro
 	<img src="/images/People/georgios_piliouras.jpeg" alt="Dr Georgios Piliouras"></a><br><strong>Dr Georgios Piliouras</strong><br><span style="font-size:13px; line-height:14px"><em>Associate Professor, Singapore University of Technology and Design; Senior Research Scientist, Google DeepMind</em></span><br></div>	
 
 </div>
+
+[Return to top](/community/#our_brain_trust_of_ai)
