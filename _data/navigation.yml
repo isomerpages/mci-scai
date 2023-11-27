@@ -2,8 +2,8 @@ logo: /images/SCAI_logo.png
 links:
   - title: The Goal
     url: /about
-  - title: The People
-    url: /people
+  - title: THE PEOPLE
+    collection: people
   - title: The Process
     url: /proceedings
   - title: The Outcomes
