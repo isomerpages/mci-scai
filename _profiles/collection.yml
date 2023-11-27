@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Professor Wolfgang Maass.md
       - Professor Ho Teck Hua.md
       - Dr HongJiang Zhang.md
       - Benedict Evan.md
