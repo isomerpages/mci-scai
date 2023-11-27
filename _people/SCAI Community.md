@@ -181,8 +181,6 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-
-	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
 	<img src="/images/People/alondra_nelson.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
 
@@ -190,7 +188,6 @@ We are honoured to have to have the following distinguished AI practitioners fro
 	<img src="/images/People/florian_ostmann.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>	
 
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
-	<img src="/images/People/georgios_piliouras.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>	
+	<img src="/images/People/georgios_piliouras.jpeg" alt="Dr Georgios Piliouras"></a><br><strong>Dr Georgios Piliouras</strong><br><span style="font-size:13px; line-height:14px"><em>Associate Professor, Singapore University of Technology and Design; Senior Research Scientist, Google DeepMind</em></span><br></div>	
 
 </div>
-
