@@ -46,3 +46,16 @@ We are honoured to have to have the following distinguished AI practitioners fro
 	<img src="/images/People/silver_keskkula.jpeg" alt="Silver Keskküla"></a><br><strong>Silver Keskküla</strong><br><span style="font-size:13px; line-height:14px"><em>CEO, trackAIanswers.com</em></span><br></div>
 	
 </div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/steven-hoi/">
+	<img src="/images/People/steven_hoi.jpeg" alt="Dr Steven Hoi"></a><br><strong>Dr Steven Hoi</strong><br><span style="font-size:13px; line-height:14px"><em>Founder and CEO, HyperGAI; ex-Salesforce VP of AI Research and founding MD of Salesforce Research Asia</em></span><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/rumman-chowdhury/">
+	<img src="/images/People/rumman_chowdhury.jpeg" alt="Rumman Chowdhury"></a><br><strong>Rumman Chowdhury</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder and CEO, Humane Intelligence</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/jutta-williams/">
+	<img src="/images/People/jutta_williams.jpeg" alt="Jutta Williams"></a><br><strong>Jutta Williams</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder and COO of Humane Intelligence</em></span><br></div>
+	
+</div>
