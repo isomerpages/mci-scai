@@ -39,4 +39,4 @@ SCAI focuses on identifying core research challenges intrinsic to AI development
     <span style="font-size: 16px; line-height: 23px;">“Bibendum enim facilisis gravida neque convallis a cras semper. Massa placerat duis ultricies lacus sed turpis tincidunt id. Arcu vitae elementum curabitur vitae nunc sed velit.”</span></div>
 </div>
 
-Here is the [foreword for SCAI](/about/foreword/) by Singapore's Minister for Communications and Information, and Minister-in-charge of Smart Nation and Cybersecurity, Josephine Teo, offering insights into our vision and aspirations for this conference.
+Read the [foreword for SCAI](/about/foreword/) by Singapore's Minister for Communications and Information, and Minister-in-charge of Smart Nation and Cybersecurity, Josephine Teo, to learn more about our vision and aspirations for this conference.
