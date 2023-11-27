@@ -191,4 +191,4 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 </div>
 
-[Return to top](/community/#our_brain_trust_of_ai)
+[Return to top](/community/#our-brain-trust-of-ai)
