@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/scai_homepage.jpg
+      background: /images/scai_home_web.jpg
       key_highlights:
         - title: THE GOAL
           description: Find out more about SCAI
@@ -27,6 +27,10 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
+  - infobar:
+      title: For the Global Good
+      subtitle: 4 -6 December 2023
+      id: infobar
   - infopic:
       title: Uncover the key challenges in today's AI landscape
       id: infopic
