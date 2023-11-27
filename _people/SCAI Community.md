@@ -98,3 +98,106 @@ We are honoured to have to have the following distinguished AI practitioners fro
 	<img src="/images/People/yee_whye_teh.jpeg" alt="Professor Yee-Whye Teh"></a><br><strong>Professor Yee-Whye Teh</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Statistical Machine Learning, University of Oxford</em></span><br></div>
 	
 </div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/nicholas_roy.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/illyas_khan.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/nigel_shadbolt.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/irene_solaiman.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/ryota_kanai.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/ramayya_krishnan.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/soujanya_poria.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/participant.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/dawn_song.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/leong_tze_yun.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/marietje_schaake.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/james_kondo.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/alan_qi.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/brian_tse.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/baroness_joanna_shields.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/wang_chiew_tan.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/alex_smola.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/participant.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/dan_hendrycks.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/andrew_critch.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/alondra_nelson.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/florian_ostmann.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/name/">
+	<img src="/images/People/georgious_piliourase.jpeg" alt="Name"></a><br><strong>Name</strong><br><span style="font-size:13px; line-height:14px"><em>Designation</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"></div>
+	
+</div>
