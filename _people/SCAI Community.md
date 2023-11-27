@@ -85,3 +85,16 @@ We are honoured to have to have the following distinguished AI practitioners fro
 	<img src="/images/People/jaan_tallinn.jpeg" alt="Jaan Tallinn"></a><br><strong>Jaan Tallinn</strong><br><span style="font-size:13px; line-height:14px"><em>Assistant Professor, Allen School of Computer Science &amp; Engineering, University of Washington</em></span><br></div>
 	
 </div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/michael-sellitto/">
+	<img src="/images/People/michael_sellitto.jpeg" alt="Michael Sellitto"></a><br><strong>Michael Sellitto</strong><br><span style="font-size:13px; line-height:14px"><em>Head of Geopolitics and Security, Anthropic</em></span><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/jeremy-kranz/">
+	<img src="/images/People/jeremy_kranz.jpeg" alt="Jeremy Kranz"></a><br><strong>Jeremy Kranz</strong><br><span style="font-size:13px; line-height:14px"><em>Managing Partner, Sentinel Global; Former Managing Director, GIC Technology Investment Group</em></span><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/yee-whye-teh/">
+	<img src="/images/People/yee_whye_teh.jpeg" alt="Professor Yee-Whye Teh"></a><br><strong>Professor Yee-Whye Teh</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Statistical Machine Learning, University of Oxford</em></span><br></div>
+	
+</div>
