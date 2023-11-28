@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Dr Andrew Critch.md
       - Dr Dan Hendrycks.md
       - Dr Alex Smola.md
       - Dr Wang Chiew Tan.md
