@@ -4,15 +4,16 @@ permalink: /proceedings/
 variant: markdown
 description: ""
 ---
-## Pinpointing the specific challenges in AI
+## Identifying pivotal challenges in AI
 
-SCAI brings together a diverse group of experts for an in-depth dialogue on the key issues surrounding AI. 
+SCAI convenes a diverse group of experts for an in-depth dialogue on the key issues surrounding AI. 
 
-Throughout the three-day conference, our esteemed panel of experts employs a systematic funnelling process to identify precise challenges within broad areas of concern that demand attention and resolution.
+Throughout the three-day conference, our esteemed panel of experts seeks to discern
+
+Over the duration of the three-day conference, our esteemed panel of experts examines critical challenges in AI adoption and innovation that are pivotal for unlocking AI's full potential. Starting from broad areas of concern, the panel systematically employ a winnowing methodology to pinpoint clearly defined challenges that demand attention and resolution.
 
 ![SCAI - Identifying the key challenges in AI](/images/Process/scai_approach.jpg)
 
-Every member of the SCAI community is given an equal opportunity to contribute and influence the direction of the conversation, facilitated by a structured voting process that ensures equitable representation.
+Every member of the SCAI community is given equal opportunity to contribute and influence the direction of the conversation and a structured voting process ensures equitable representation.
 
-This meticulous and collaborative approach enables SCAI to attain a comprehensive understanding of the ongoing challenges in AI. The findings and conclusions from SCAI will lay the groundwork for the global community to strategically address the identified issues, ensuring that AI is leveraged for the global good.
-
+This meticulous and collaborative approach enables SCAI to achieve a comprehensive understanding of the ongoing challenges in AI. The findings and conclusions drawn by SCAI will lay the groundwork for the global community to strategically address the identified issues, enabling AI to be leveraged for the global good.
