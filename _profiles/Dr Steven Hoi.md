@@ -10,12 +10,6 @@ description: ""
 
 ---
 
-Silver Keskküla is an entrepreneur and an engineer currently helping people track AI-chatbot answers for personal and corporate brands on popular Large Language Models at trackAIanswers.com.  
-  
-From joining Skype in the early days as the first researcher of the core team to co-founding and selling two startups, his experience spans from deeply technical research to leading companies.  
-  
-At Skype Silver was optimizing peer-to-peer network topologies using machine learning and AI and pushed neural networks to hundreds of millions of computers. In Teleport he was responsible for data strategy, technical architecture and leading a growing data science &amp; research team while in Supervaisor he ran the company as a solo founder for 3 years after having raised the biggest solo-founder-round in Estonia.  
-  
-Silver is most inspired by bio-mimetic algorithms ranging from evolutionary computation to neural networks.
+Dr Steven Hoi is the founder and CEO of HyperGAI, a Multimodal Generative AI startup. Previously he had been the founding Managing Director of Salesforce Research Asia and VP of AI Research at Salesforce. He led AI research &amp; innovation in APAC for a wide range of applied AI projects and products collaborated globally. He has been a tenured professor for 15+ years at two Singapore universities, including full professor (on leave) at SMU and Associate Professor at NTU. He has worked in AI and machine learning for more than 20 years, published over 300 research papers with more than 30,000 citations, contributed open-source projects with more than 20,000 stars and open-source Generative AI models with more than 2-million downloads, and filed over 50 AI patent applications. He served as the Editor-in-Chief (EiC) of Neurocomputing journal, and Associate Editor (AE) for top AI journals such as IEEE Transactions on PAMI, Area Chair/Senior PC for top AI conferences such as NeurIPS/ICML/ICLR. He was elevated to IEEE Fellow (2019) and named as ACM Distinguished Member (2019) for his significant contributions to the AI and computing fields.
 
 [Return to list of SCAI community members](/community)
