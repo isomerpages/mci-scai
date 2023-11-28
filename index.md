@@ -36,6 +36,7 @@ sections:
         societies worldwide
       button: Learn more
       url: /about
+      image: /images/Banners/Ai_banner_child.jpg
       alt: Image alt text
   - infopic:
       title: Uncover the key challenges in today's AI landscape
@@ -45,6 +46,6 @@ sections:
         AI's full potential
       button: Learn more
       url: /findings
-      image: /images/Temp/Ai_banner.jpg
+      image: /images/Banners/Ai_banner_lady_2.jpg
       alt: Image alt text
 ---
