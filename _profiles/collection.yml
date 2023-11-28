@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Professor Alondra Nelson.md
       - Dr Andrew Critch.md
       - Dr Dan Hendrycks.md
       - Dr Alex Smola.md
