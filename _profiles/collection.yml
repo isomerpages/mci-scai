@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Baroness Joanna Shields.md
       - Brian Tse.md
       - Professor Alan Qi.md
       - James Kondo.md
