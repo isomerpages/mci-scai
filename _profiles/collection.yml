@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Dr Soujanya Poria.md
       - Professor Ramayya Krishnan.md
       - Dr Ryota Kanai.md
       - Irene Solaiman.md
