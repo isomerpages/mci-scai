@@ -32,7 +32,7 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/iqbal-dhaliwal/"><img src="/images/People/iqbal_dhaliwal.jpeg" alt="Iqbal Dhaliwal"></a><br><strong>Iqbal Dhaliwal</strong><br><span style="font-size:13px; line-height:14px"><em>Global Executive Director, J-PAL, Massachusetts Institute of Technology</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/benedict-evan/"><img src="/images/People/benedict_evan.jpeg" alt="hongjiang"></a><br><strong>Benedict Evan</strong><br><span style="font-size:13px; line-height:14px"><em>Independent Analyst</em></span><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/benedict-evans/"><img src="/images/People/benedict_evan.jpeg" alt="hongjiang"></a><br><strong>Benedict Evans</strong><br><span style="font-size:13px; line-height:14px"><em>Independent Analyst</em></span><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/dan-hendrycks/"><img src="/images/People/dan_hendrycks.jpeg" alt="Dr Dan Hendrycks"></a><br><strong>Dr Dan Hendrycks</strong><br><span style="font-size:13px; line-height:14px"><em>Executive Director of the Center for AI Safety</em></span><br></div>
 	
