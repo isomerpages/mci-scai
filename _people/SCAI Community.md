@@ -50,7 +50,7 @@ We are honoured to have to have the following distinguished AI practitioners fro
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/steven-hoi/">
-	<img src="/images/People/steven_hoi.jpeg" alt="Dr Steven Hoi"></a><br><strong>Dr Steven Hoi</strong><br><span style="font-size:13px; line-height:14px"><em>Founder and CEO, HyperGAI; ex-Salesforce VP of AI Research and founding MD of Salesforce Research Asia</em></span><br></div>
+	<img src="/images/People/steven_hoi.jpeg" alt="Dr Steven Hoi"></a><br><strong>Dr Steven Hoi</strong><br><span style="font-size:13px; line-height:14px"><em>Founder and CEO, HyperGAI; Former Salesforce VP of AI Research and founding MD of Salesforce Research Asia</em></span><br></div>
 
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/rumman-chowdhury/">
 	<img src="/images/People/rumman_chowdhury.jpeg" alt="Rumman Chowdhury"></a><br><strong>Rumman Chowdhury</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder and CEO, Humane Intelligence</em></span><br></div>
