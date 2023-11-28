@@ -8,7 +8,30 @@ description: ""
 
 We are honoured to have to have the following distinguished AI practitioners from various fields of academia and industry contribute their expertise, insights, and experiences to the discussions at SCAI.
 
+
 <div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/joscha-bach/">
+	<img src="/images/People/joscha_bach.jpeg" alt="Dr Joscha Bach"></a><br><strong>Dr Joscha Bach</strong><br><span style="font-size:13px; line-height:14px"><em>AI Scientist, LiquidAI</em></span><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/joanna-bryson/">
+	<img src="/images/People/joanna_bryson.jpeg" alt="Professor Joanna J. Bryson"></a><br><strong>Professor Joanna J. Bryson</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Ethics and Technology, Hertie School of Governance</em></span><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/chen-jiahao/">
+	<img src="/images/People/chen_jiahao.jpeg" alt="Dr Chen Jiahao"></a><br><strong>Dr Chen Jiahao</strong><br><span style="font-size:13px; line-height:14px"><em>Owner, Responsible AI LLC</em></span><br></div>	
+	
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/calvin-chin/">
+	<img src="/images/People/calvin_chin.jpeg" alt="Calvin Chin"></a><br><strong>Calvin Chin</strong><br><span style="font-size:13px; line-height:14px"><em>Managing Partner, E14 Fund;  Affiliate, MIT Media Lab</em></span><br></div>
+
+</div>
+
+
+
+----
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/hongjiang-zhang/">
 	<img src="/images/People/hongjiang_zhang.jpeg" alt="Dr HongJiang Zhang"></a><br><strong>Dr HongJiang Zhang</strong><br><span style="font-size:13px; line-height:14px"><em>Chairman, Beijing Academy of Artificial Intelligence</em></span><br></div>
@@ -19,7 +42,7 @@ We are honoured to have to have the following distinguished AI practitioners fro
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/yaodong-yang/">
 	<img src="/images/People/yaodong_yang.jpeg" alt="Dr Yaodong Yang"></a><br><strong>Dr Yaodong Yang</strong><br><span style="font-size:13px; line-height:14px"><em>Assistant Professor, Institute of AI, Peking University</em></span><br></div>
 	
-</div>
+
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
@@ -52,8 +75,7 @@ We are honoured to have to have the following distinguished AI practitioners fro
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/steven-hoi/">
 	<img src="/images/People/steven_hoi.jpeg" alt="Dr Steven Hoi"></a><br><strong>Dr Steven Hoi</strong><br><span style="font-size:13px; line-height:14px"><em>Founder and CEO, HyperGAI; Former Salesforce VP of AI Research and founding MD of Salesforce Research Asia</em></span><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/rumman-chowdhury/">
-	<img src="/images/People/rumman_chowdhury.jpeg" alt="Rumman Chowdhury"></a><br><strong>Rumman Chowdhury</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder and CEO, Humane Intelligence</em></span><br></div>
+
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/jutta-williams/">
 	<img src="/images/People/jutta_williams.jpeg" alt="Jutta Williams"></a><br><strong>Jutta Williams</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder and COO of Humane Intelligence</em></span><br></div>
@@ -62,11 +84,9 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/chen-jiahao/">
-	<img src="/images/People/chen_jiahao.jpeg" alt="Dr Chen Jiahao"></a><br><strong>Dr Chen Jiahao</strong><br><span style="font-size:13px; line-height:14px"><em>Owner, Responsible AI LLC</em></span><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/calvin-chin/">
-	<img src="/images/People/calvin_chin.jpeg" alt="Calvin Chin"></a><br><strong>Calvin Chin</strong><br><span style="font-size:13px; line-height:14px"><em>Managing Partner, E14 Fund;  Affiliate, MIT Media Lab</em></span><br></div>
+
+
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/pang-wei-koh/">
 	<img src="/images/People/pang_wei_koh.jpeg" alt="Professor Pang Wei Koh"></a><br><strong>Professor Pang Wei Koh</strong><br><span style="font-size:13px; line-height:14px"><em>Assistant Professor, Allen School of Computer Science &amp; Engineering, University of Washington</em></span><br></div>
@@ -75,11 +95,9 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/joscha-bach/">
-	<img src="/images/People/joscha_bach.jpeg" alt="Dr Joscha Bach"></a><br><strong>Dr Joscha Bach</strong><br><span style="font-size:13px; line-height:14px"><em>AI Scientist, LiquidAI</em></span><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/joanna-bryson/">
-	<img src="/images/People/joanna_bryson.jpeg" alt="Professor Joanna J. Bryson"></a><br><strong>Professor Joanna J. Bryson</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Ethics and Technology, Hertie School of Governance</em></span><br></div>
+
+
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/jaan-tallinn/">
 	<img src="/images/People/jaan_tallinn.jpeg" alt="Jaan Tallinn"></a><br><strong>Jaan Tallinn</strong><br><span style="font-size:13px; line-height:14px"><em>Assistant Professor, Allen School of Computer Science &amp; Engineering, University of Washington</em></span><br></div>
