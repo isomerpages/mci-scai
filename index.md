@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/scai_home_01.jpg
+      background: /images/scai_home_02.jpg
       key_highlights:
         - title: THE GOAL
           description: Find out more about SCAI
@@ -28,16 +28,21 @@ sections:
       alignment: left
       size: md
       title: Singapore Conference on AI for the Global Good
-  - infobar:
-      title: Singapore Conference on AI
-      subtitle: 4 -6 December 2023
-      id: infobar
-      description: For the Global Good
+  - infopic:
+      title: For the Global Good
+      id: infopic
+      description: Centered on the theme "For the Global Good," SCAI serves as a
+        guiding light, navigating the path for AI to foster positive change in
+        societies worldwide
+      button: Learn more
+      url: /about
+      alt: Image alt text
   - infopic:
       title: Uncover the key challenges in today's AI landscape
       id: infopic
-      description: SCAI aims to examine the pivotal challenges in AI adoption and
-        innovation that are essential for unlocking its full potential
+      description: SCAI gathers AI experts from around the world to identify critical
+        challenges in AI adoption and innovation that are pivotal for unlocking
+        AI's full potential
       button: Learn more
       url: /findings
       image: /images/Temp/Ai_banner.jpg
