@@ -8,8 +8,6 @@ description: ""
 
 SCAI convenes a diverse group of experts for an in-depth dialogue on the key issues surrounding AI. 
 
-Throughout the three-day conference, our esteemed panel of experts seeks to discern
-
 Over the duration of the three-day conference, our esteemed panel of experts examines critical challenges in AI adoption and innovation that are pivotal for unlocking AI's full potential. Starting from broad areas of concern, the panel systematically employ a winnowing methodology to pinpoint clearly defined challenges that demand attention and resolution.
 
 ![SCAI - Identifying the key challenges in AI](/images/Process/scai_approach.jpg)
