@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Professor Pang Wei Koh.md
       - Calvin Chin.md
       - Dr Chen Jiahao.md
       - Jutta Williams.md
