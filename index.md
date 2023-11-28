@@ -33,7 +33,7 @@ sections:
       id: infopic
       description: Centered on the theme "For the Global Good," SCAI serves as a
         guiding light, navigating the path for AI to foster positive change in
-        societies worldwide
+        societies worldwide.
       button: Learn more
       url: /about
       image: /images/Banners/Ai_banner_child.jpg
@@ -43,7 +43,7 @@ sections:
       id: infopic
       description: SCAI gathers AI experts from around the world to identify critical
         challenges in AI adoption and innovation that are pivotal for unlocking
-        AI's full potential
+        AI's full potential.
       button: Learn more
       url: /findings
       image: /images/Banners/Ai_banner_lady_2.jpg
