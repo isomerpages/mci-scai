@@ -27,6 +27,9 @@ We are honoured to have to have the following distinguished AI practitioners fro
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/calvin-chin/">
 	<img src="/images/People/calvin_chin.jpeg" alt="Calvin Chin"></a><br><strong>Calvin Chin</strong><br><span style="font-size:13px; line-height:14px"><em>Managing Partner, E14 Fund;  Affiliate, MIT Media Lab</em></span><br></div>
 
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/rumman-chowdhury/">
+	<img src="/images/People/rumman_chowdhury.jpeg" alt="Rumman Chowdhury"></a><br><strong>Rumman Chowdhury</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder and CEO, Humane Intelligence</em></span><br></div>
+
 </div>
 
 
