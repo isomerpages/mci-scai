@@ -30,6 +30,8 @@ We are honoured to have to have the following distinguished AI practitioners fro
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/rumman-chowdhury/">
 	<img src="/images/People/rumman_chowdhury.jpeg" alt="Rumman Chowdhury"></a><br><strong>Rumman Chowdhury</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder and CEO, Humane Intelligence</em></span><br></div>
 
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/andrew-critch/">
+	<img src="/images/People/andrew_critch.jpeg" alt="Dr Andrew Critch"></a><br><strong>Dr Andrew Critch</strong><br><span style="font-size:13px; line-height:14px"><em>CEO, Encultured</em></span><br></div>	
 </div>
 
 
@@ -194,8 +196,7 @@ We are honoured to have to have the following distinguished AI practitioners fro
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/dan-hendrycks/">
 	<img src="/images/People/dan_hendrycks.jpeg" alt="Dr Dan Hendrycks"></a><br><strong>Dr Dan Hendrycks</strong><br><span style="font-size:13px; line-height:14px"><em>Executive Director of the Center for AI Safety</em></span><br></div>	
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/andrew-critch/">
-	<img src="/images/People/andrew_critch.jpeg" alt="Dr Andrew Critch"></a><br><strong>Dr Andrew Critch</strong><br><span style="font-size:13px; line-height:14px"><em>CEO, Encultured</em></span><br></div>
+
 	
 </div>
 
