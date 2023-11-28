@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Jutta Williams.md
       - Rumman Chowdhury.md
       - Dr Steven Hoi.md
       - Silver Keskküla.md
