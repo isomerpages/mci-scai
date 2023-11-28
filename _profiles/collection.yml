@@ -2,10 +2,17 @@ collections:
   profiles:
     output: true
     order:
+      - Dr Joscha Bach.md
+      - Professor Joanna J Bryson.md
+      - Dr Chen Jiahao.md
+      - Calvin Chin.md
+      - Rumman Chowdhury.md
+      - Dr Andrew Critch.md
+      - Iqbal Dhaliwal.md
+      - Benedict Evan.md
       - Dr Georgios Piliouras.md
       - Dr Florian Ostmann.md
       - Professor Alondra Nelson.md
-      - Dr Andrew Critch.md
       - Dr Dan Hendrycks.md
       - Dr Alex Smola.md
       - Dr Wang Chiew Tan.md
@@ -27,20 +34,13 @@ collections:
       - Jeremy Kranz.md
       - Michael Sellitto.md
       - Jaan Tallinn.md
-      - Professor Joanna J Bryson.md
-      - Dr Joscha Bach.md
       - Professor Pang Wei Koh.md
-      - Calvin Chin.md
-      - Dr Chen Jiahao.md
       - Jutta Williams.md
-      - Rumman Chowdhury.md
       - Dr Steven Hoi.md
       - Silver Keskküla.md
-      - Iqbal Dhaliwal.md
       - Professor Wong Tien Yin.md
       - Professor Seth Lazar.md
       - Professor Wolfgang Maass.md
       - Professor Ho Teck Hua.md
       - Dr HongJiang Zhang.md
-      - Benedict Evan.md
       - Dr Yaodong Yang.md
