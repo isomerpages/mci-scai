@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Professor Joanna J Bryson.md
       - Dr Joscha Bach.md
       - Professor Pang Wei Koh.md
       - Calvin Chin.md
