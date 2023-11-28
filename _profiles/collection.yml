@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Dr Georgios Piliouras.md
       - Dr Florian Ostmann.md
       - Professor Alondra Nelson.md
       - Dr Andrew Critch.md
