@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Illyas Khan.md
       - Professor Nicholas Roy.md
       - Professor Yee Whye Teh.md
       - Jeremy Kranz.md
