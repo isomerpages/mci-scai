@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Dr Alex Smola.md
       - Dr Wang Chiew Tan.md
       - Baroness Joanna Shields.md
       - Brian Tse.md
