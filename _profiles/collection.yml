@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Michael Sellitto.md
       - Jaan Tallinn.md
       - Professor Joanna J Bryson.md
       - Dr Joscha Bach.md
