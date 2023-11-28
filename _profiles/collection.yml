@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Dr Chen Jiahao.md
       - Jutta Williams.md
       - Rumman Chowdhury.md
       - Dr Steven Hoi.md
