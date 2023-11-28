@@ -4,7 +4,7 @@ permalink: /profiles/silver-keskkula/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/silver_keskkula.jpeg" alt="Professor Seth Lazar"></div>
+<div style="width:50%"><img src="/images/People/silver_keskkula.jpeg" alt="Silver Keskküla"></div>
 
 **Silver Keskküla**<br>*CEO*<br>*trackAIanswers.com*<br>
 
