@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Professor Leong Tze Yun.md
       - Professor Dawn Song.md
       - Dr Soujanya Poria.md
       - Professor Ramayya Krishnan.md
