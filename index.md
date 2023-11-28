@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/scai_banner.jpg
+      background: /images/Home screen/scai_home_screen.jpg
       key_highlights:
         - title: THE GOAL
           description: Find out more about SCAI
@@ -27,6 +27,7 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
+      title: Singapore Conference on AI for the Global Good
   - infobar:
       title: Singapore Conference on AI
       subtitle: 4 -6 December 2023
