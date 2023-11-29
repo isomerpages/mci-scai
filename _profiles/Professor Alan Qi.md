@@ -4,7 +4,7 @@ permalink: /profiles/alan-qi/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/alan_qi.jpeg" alt="Professor Alan Qi"></div>
+<div style="width:50%"><img src="/images/People/qi_alan.jpeg" alt="Professor Alan Qi"></div>
 
 **Professor Alan Qi**<br>*Chair Professor*<br>*Dean of AI3 institute of Fudan University*<br>
 
