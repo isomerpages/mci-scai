@@ -41,9 +41,8 @@ sections:
   - infopic:
       title: Uncover the key challenges in today's AI landscape
       id: infopic
-      description: SCAI gathers AI experts from around the world to identify critical
-        challenges in AI adoption and innovation that are pivotal for unlocking
-        AI's full potential.
+      description: SCAI brings together AI experts globally to identify pivotal
+        questions crucial for unlocking AI's full potential.
       button: Learn more
       url: /findings
       image: /images/Banners/Ai_banner_lady_2.jpg
