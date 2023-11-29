@@ -12,7 +12,7 @@ description: ""
 
 Ruimin He is Singapore’s Chief Artificial Intelligence (AI) Officer, where he leads a multi-stakeholder effort to achieve Singapore's strategic AI objectives, including developing and implementing Singapore's national AI strategy. He is also concurrently the Singaporean government’s Deputy Chief Digital Technology Officer, and a member of the United Nations High Level Advisory Body on AI. Ruimin has a BS in Electrical Science and Engineering, and a PhD in Economics, both from the Massachusetts Institute of Technology.
 
-<br><div style="width:50%"><img src="/images/People/wanyi.jpeg" alt="Weng Wanyi"></div>
+<br><div style="width:50%"><img src="/images/People/weng_wanyi.jpeg" alt="Weng Wanyi"></div>
 
 **Weng Wanyi**<br>*Director National AI Office &amp; Director Government Data Division, Government of Singapore*<br>
 
