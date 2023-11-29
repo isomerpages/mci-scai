@@ -14,7 +14,7 @@ Centered around the theme '**For the Global Good**', SCAI focuses on identifying
 
 <div style="padding: 25px 0px 0px 0px;">
 
-<div class="row">
+<div class="row" style="background-color: #f9f9f9">
 
 <div class="column" style="padding: 30px 20px 30px 20px; width:50%"><img src="/images/People/josephine_teo.jpg" alt="Josephine Teo">
 
@@ -26,4 +26,14 @@ Centered around the theme '**For the Global Good**', SCAI focuses on identifying
 
 </span></div></div></div>
 
+<div style="padding: 25px 0px 0px 0px;">
 
+<div style="width:50%; padding: 30px 0px 20px 0px;"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/Logos/sng_logo.png" alt="Smart Nation Group"></a></div>
+	
+<div style="width:50%; padding: 15px 0px 15px 0px;"><a href="https://www.mci.gov.sg/" target="new"><img src="/images/Logos/mci_logo.png" alt="Smart Nation Group"></a></div>
+
+<div style="width:35%; padding: 25px 0px 20px 0px;"><a href="https://topos.site/" target="new"><img src="/images/Logos/topos_logo.png" alt="Smart Nation Group"></a></div>
+
+<div style="padding: 25px 0px 0px 0px;"></div>
+
+</div>
