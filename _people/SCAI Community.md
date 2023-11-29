@@ -123,7 +123,7 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/dawn-song/"><img src="/images/People/dawn_song.jpeg" alt="Professor Dawn Song"></a><br><strong>Professor Dawn Song</strong><br><span style="font-size:13px; line-height:14px"><em>Professor of Security/Privacy, AI/ML, University of California at Berkeley</em></span><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/jaan-tallinn/"><img src="/images/People/jaan_tallinn.jpeg" alt="Jaan Tallinn"></a><br><strong>Jaan Tallinn</strong><br><span style="font-size:13px; line-height:14px"><em>Assistant Professor, Allen School of Computer Science &amp; Engineering, University of Washington</em></span><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/jaan-tallinn/"><img src="/images/People/jaan_tallinn.jpeg" alt="Jaan Tallinn"></a><br><strong>Jaan Tallinn</strong><br><span style="font-size:13px; line-height:14px"><em>Co-Founder, Future of Life Institute</em></span><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/wang-chiew-tan/"><img src="/images/People/wang_chiew_tan.jpeg" alt="Dr Wang-Chiew Tan"></a><br><strong>Dr Wang-Chiew Tan</strong><br><span style="font-size:13px; line-height:14px"><em>AI Research Scientist, Meta</em></span><br></div>	
 	
