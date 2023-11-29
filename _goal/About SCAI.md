@@ -14,10 +14,10 @@ Centered around the theme '**For the Global Good**', SCAI focuses on identifying
 
 <div style="padding: 25px 0px 0px 0px;">
 	
-<div style="background-color: #f3f3f3; font-size:24px; font-weight: 400; line-height: 1.75; color: #4b789b; padding: 30px 30px 30px 30px; margin-left: 0;">"We hope SCAI can strengthen international cooperation on AI, by serving as a brain trust to focus attention on the questions that demand our most patient and persistent investigations."
+<div style="background-color: #f3f3f3; font-size:26px; font-weight: 400; line-height: 1.75; color: #4b789b; padding: 30px 30px 30px 30px; margin-left: 0;">"We hope SCAI can strengthen international cooperation on AI, by serving as a brain trust to focus attention on the questions that demand our most patient and persistent investigations."
 
-<div style="padding: 25px 0px 0px 0px"><div style="width:40%"><img src="/images/People/josephine_teo.jpg" alt="Josephine Teo"></div></div>	
+<div style="padding: 25px 0px 0px 0px"><div style="width:50%"><img src="/images/People/josephine_teo.jpeg" alt="Josephine Teo"></div></div>	
 	
-<div style="padding: 25px 0px 0px 0px"><div style="font-size: 18px; line-height: 1.5">Josephine Teo<br><span style="font-size: 16px; font-style: italic;">Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity</span></div></div>
+<div style="padding: 25px 0px 0px 0px"><div style="font-size: 20px; line-height: 1.5">Josephine Teo<br><span style="font-size: 16px; font-style: italic;">Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity</span></div></div>
 
 </div></div>
