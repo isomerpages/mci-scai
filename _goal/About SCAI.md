@@ -13,6 +13,17 @@ This unique gathering is organised by Singapore's [Smart Nation Group](https://s
 Centered around the theme '**For the Global Good**', SCAI focuses on identifying critical questions of AI, that if answered systematically, will enable AI to truly be developed and deployed for the global good.
 
 <div style="padding: 25px 0px 0px 0px;">
+<div class="row" style="background-color: #f3f3f3;">
+      <div class="column" style="padding: 30px 20px 30px 20px; width:70%"><img src="/images/People/josephine_teo.jpeg" alt="Josephine Teo"></div>
+      <div class="column" style="width: 100%; padding: 20px 30px 30px 20px;">
+       <span style="font-size: 20px; line-height: 40px;">"We hope SCAI can strengthen international cooperation on AI, by serving as a brain trust to focus attention on the questions that demand our most patient and persistent investigations."</span><br><br><span style="font-size: 18px; font-weight: bold; line-height: 40px;">Josephine Teo</span><br>
+    <span style="font-size: 15px; line-height: 23px;">Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity<br>
+      </span></div>
+</div>
+
+
+
+<div style="padding: 25px 0px 0px 0px;">
 	
 <div style="background-color: #f3f3f3; font-size:26px; font-weight: 400; line-height: 1.75; color: #4b789b; padding: 30px 30px 30px 30px; margin-left: 0;">"We hope SCAI can strengthen international cooperation on AI, by serving as a brain trust to focus attention on the questions that demand our most patient and persistent investigations."
 
@@ -20,4 +31,4 @@ Centered around the theme '**For the Global Good**', SCAI focuses on identifying
 	
 <div style="padding: 20px 0px 0px 0px"><div style="font-size: 20px; line-height: 1.5">Josephine Teo<br><span style="font-size: 16px; font-style: italic;">Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity</span></div></div>
 
-</div></div>
+</div></div></div>
