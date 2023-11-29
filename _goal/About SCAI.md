@@ -18,8 +18,6 @@ Centered around the theme "**For the Global Good**, SCAI focuses on identifying 
 
 <div style="padding: 25px 0px 0px 0px"><div style="width:50%"><img src="/images/People/josephine_teo.jpg" alt="Josephine Teo"></div></div>	
 	
-<div style="padding: 25px 0px 0px 0px"><div style="font-size: 18px; line-height: 1.5">Josephine Teo<br><span style="font-size: 14px; font-style: italic;">Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity</span></div></div>
+<div style="padding: 25px 0px 0px 0px"><div style="font-size: 18px; line-height: 1.5">Josephine Teo<br><span style="font-size: 16px; font-style: italic;">Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity</span></div></div>
 
 </div></div>
-
-	
