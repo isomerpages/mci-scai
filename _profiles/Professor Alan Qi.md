@@ -10,9 +10,7 @@ description: ""
 
 ---
 
-Dr Qi is chair professor of Fudan University, Director of AI3 Institute, and former chief AI scientist of Ant Group. His research interests lie in foundation models, deep learning, Bayesian inference, and various AI applications in solving scientific and industrial problems. 
-
-He obtained PhD from MIT in 2004 and worked as research fellow at MIT CSAIL and Whitehead Institute. He was tenured in CS and Statistics Departments of Purdue University, and served as visiting professor/Scholar at Columbia University, Duke University, Brown University, Cambridge University and UCL. 
+Dr Qi is chair professor of Fudan University, Director of AI3 Institute, and former chief AI scientist of Ant Group. His research interests lie in foundation models, deep learning, Bayesian inference, and various AI applications in solving scientific and industrial problems. He obtained PhD from MIT in 2004 and worked as research fellow at MIT CSAIL and Whitehead Institute. He was tenured in CS and Statistics Departments of Purdue University, and served as visiting professor/Scholar at Columbia University, Duke University, Brown University, Cambridge University and UCL. 
 
 From 2014 to 2021, as Chief AI Scientist of Ant Group and co-founder of iDST (predecessor of DAMO Academy) of Alibaba Group, he laid the AI foundation for Alibaba and Ant Group, including the development of the Platform of AI (PAI) that is the core product of Alicloud for large-scale AI training and inference, the first deep-learning-based speech recognition system at Alibaba, super large-scale graph neural network platform for financial applications, privacy-preserving machine learning platform (Siyu) over multiple data sources, large financial knowledge graphs with 10 billion nodes and trillions of edges. He applied these AI systems, together with generative and trustworthy AI technologies, to various applications such as personalized recommendation and advertisement, risk management, credit scoring, intelligent insurance claims, chatbots and intelligent customer services. 
 
