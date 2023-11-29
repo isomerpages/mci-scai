@@ -18,4 +18,6 @@ Joanna has served in executive leadership positions at some of the world’s lar
  
 From 2013-2018, Joanna served in the UK Government as the first-ever Minister for Internet Safety and Security, Digital Economy Advisor to the Prime Minister, UK Ambassador for Digital Industries, and Special Representative on Internet Harms and Crimes. During her tenure, Baroness Shields pioneered solutions to pressing global issues at the intersection of technology and society including developing AI products to understand the language of extremism online and to combat online harms and crimes.
 
+A leading global internet safety advocate and campaigner, Baroness Shields founded the WeProtect Global Alliance, a multi-stakeholder organisation with over 100 member countries committed to combating online child sexual abuse and exploitation.
+
 [Return to list of SCAI community members](/community)
