@@ -18,4 +18,6 @@ Nelson regularly advises American lawmakers, including U.S. Senate Majority Lead
 
 An acclaimed academic researcher, Nelson served as the inaugural Dean of Social Science at Columbia University and and was the 14th president and CEO of the US Social Science Research Council. She writes and lectures widely on the intersections of science, technology, medicine, and social inequality. Nelson is the author of several books including, most recently, The Social Life of DNA. Her essays, reviews, and commentary have been featured in national and international media outlets, including The New York Times, The Washington Post, The Wall Street Journal, Wired and Science.
 
+Nelson is an elected member of the American Academy of Arts and Sciences, the American Association for the Advancement of Science, the American Philosophical Society, the Council on Foreign Relations, and the U.S. National Academy of Medicine. 
+
 [Return to list of SCAI community members](/community)
