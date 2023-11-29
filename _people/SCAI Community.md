@@ -91,7 +91,7 @@ We are honoured to have to have the following distinguished AI practitioners fro
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/alan-qi/"><img src="/images/People/alan_qi.jpeg" alt="Professor Alan Qi"></a><br><strong>Professor Alan Qi</strong><br><span style="font-size:15px; line-height:15px"><em>Chair Professor, Dean of AI3 institute of Fudan University</em></span><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/alan-qi/"><img src="/images/People/qi_alan.jpeg" alt="Professor Alan Qi"></a><br><strong>Professor Alan Qi</strong><br><span style="font-size:15px; line-height:15px"><em>Chair Professor, Dean of AI3 institute of Fudan University</em></span><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/ramayya-krishnan/"><img src="/images/People/ramayya_krishnan.jpeg" alt="Professor Ramayya Krishnan"></a><br><strong>Professor Ramayya Krishnan</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Management Science and Information Systems, Carnegie Mellon University</em></span><br></div>
 	
