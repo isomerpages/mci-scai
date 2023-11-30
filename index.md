@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: For the Global Good
       id: infopic
-      description: Centered on the theme "For the Global Good," SCAI serves as a
+      description: Centred on the theme "For the Global Good," SCAI serves as a
         guiding light, navigating the path for AI to foster positive change in
         societies worldwide.
       button: Learn more
