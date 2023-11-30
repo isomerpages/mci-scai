@@ -6,14 +6,13 @@ description: ""
 ---
 ## Identifying the right questions to realise AI's full potential
 
-SCAI brings together a community of experts for an in-depth dialogue on the key questions surrounding AI.
+SCAI brings together a community of AI experts for an in-depth dialogue.
 
-Through three days, our experts will explore and articulate top questions marring AI innovation and adoption today – impeding AI’s true potential to do global good. We believe asking the right questions is the first critical step in bringing us closer to the answers we need.
-
-Starting from broad areas of concern, we will systematically employ a winnowing methodology to pinpoint well-defined questions that demand attention and resolution.
-
+Over three days, our delegates will explore and articulate top questions impeding AI development and deployment today – impeding AI’s true potential to do global good. We believe asking the right questions is the first critical step in bringing us closer to the answers we need.
 
 ![SCAI - Identifying the key challenges in AI](/images/Process/identifying_key_challenges.jpeg)
 
+Starting from broad areas of concern, we will systematically elicit, cluster and refine questions. For each question, we will highlight the context, impetus, promising approaches, and measurements of progress
 
-Every member of the SCAI community is given equal opportunity to contribute and influence the direction of the conversation and a structured voting process ensures equitable representation.
+
+
