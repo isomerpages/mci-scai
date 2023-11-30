@@ -12,7 +12,4 @@ Over three days, our delegates will explore and articulate top questions impedin
 
 ![SCAI - Identifying the key challenges in AI](/images/Process/identifying_key_challenges.jpeg)
 
-Starting from broad areas of concern, we will systematically elicit, cluster and refine questions. For each question, we will highlight the context, impetus, promising approaches, and measurements of progress
-
-
-
+Starting from broad areas of concern, we will systematically elicit, cluster and refine questions. For each question, we will highlight the context, impetus, promising approaches, and measurements of progress.
