@@ -31,18 +31,18 @@ sections:
   - infopic:
       title: For the Global Good
       id: infopic
-      description: Centred on the theme "For the Global Good," SCAI serves as a
-        guiding light, navigating the path for AI to foster positive change in
-        societies worldwide.
+      description: SCAI seeks to identify the critical question of AI, which if
+        answered, will enable AI's development and deployment for the global
+        good.
       button: Learn more
       url: /about
       image: /images/Banners/Ai_banner_child.jpg
       alt: Image alt text
   - infopic:
-      title: Uncovering key challenges in today's AI landscape
+      title: Identifying the Critical Questions of AI
       id: infopic
-      description: SCAI brings together AI experts globally to identify pivotal
-        questions crucial for unlocking AI's full potential.
+      description: SCAI convenes AI experts to articulate the critical questions of
+        AI, emphasising their significance and actionable approaches.
       button: Learn more
       url: /findings
       image: /images/Banners/Ai_banner_lady_2.jpg
