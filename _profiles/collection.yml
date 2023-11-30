@@ -2,6 +2,7 @@ collections:
   profiles:
     output: true
     order:
+      - Marwan Alserkal.md
       - Dr Joscha Bach.md
       - Professor Joanna J Bryson.md
       - Dr Chen Jiahao.md
