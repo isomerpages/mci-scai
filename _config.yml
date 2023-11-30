@@ -54,7 +54,7 @@ plugins:
 staging: https://staging-lite.d2gjx43qd6vj9u.amplifyapp.com
 prod: https://master.d33ezci2rhx64k.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/scai_share.jpeg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
