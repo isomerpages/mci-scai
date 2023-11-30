@@ -2,11 +2,11 @@ logo: /images/SCAI_logo.png
 links:
   - title: The Goal
     collection: goal
-  - title: THE PEOPLE
+  - title: The People
     collection: people
-  - title: The Process
-    url: /proceedings
   - title: The Outcomes
     collection: outcomes
-  - title: MEDIA HUB
+  - title: Media Hub
     resource_room: true
+  - title: The Process
+    url: /proceedings
