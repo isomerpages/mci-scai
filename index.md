@@ -31,20 +31,19 @@ sections:
   - infopic:
       title: For the Global Good
       id: infopic
-      description: SCAI seeks to identify the critical question of AI, which if
-        answered, will enable AI's development and deployment for the global
-        good.
+      description: SCAI seeks to identify the critical questions of AI that impede
+        AI's development and deployment for the global good.
       button: Learn more
       url: /about
       image: /images/Banners/Ai_banner_child.jpg
       alt: Image alt text
   - infopic:
-      title: Identifying the Critical Questions of AI
+      title: The SCAI Community
       id: infopic
       description: SCAI convenes AI experts to articulate the critical questions of
         AI, emphasising their significance and actionable approaches.
       button: Learn more
-      url: /findings
+      url: /community/
       image: /images/Banners/Ai_banner_lady_2.jpg
       alt: Image alt text
 ---
