@@ -4,9 +4,9 @@ permalink: /findings/
 variant: markdown
 description: ""
 ---
-## Key challenges in today's AI landscape
+## The SCAI Questions
 
-Our panel of experts is still in deliberation. The findings from SCAI will be published soon. Stay tuned for updates.
+SCAI is ongoing, and findings from discussions will be published soon. Stay tuned for updates.
 
 ![](/images/Banners/to_be_announced.jpg)
 
@@ -14,6 +14,6 @@ Our panel of experts is still in deliberation. The findings from SCAI will be pu
 
 
 
-#### Keen to find out how Singapore is advancing AI adoption and innovation?
+#### Keen to learn more about Singapore’s commitment to AI for the Public Good?
 
-Dive into the details of [Singapore National AI Strategy](https://www.smartnation.gov.sg/initiatives/artificial-intelligence/) and learn more about the government's vision and roadmap to build a trusted AI ecosystem and empower individuals and businesses to harness the full potential of AI.
+Find out about  [Singapore's National AI Strategy (NAIS 2.0)](https://www.smartnation.gov.sg/initiatives/artificial-intelligence/) – Singapore’s ambition to harness AI to address the challenges of our time. This involves building a trusted and responsible AI ecosystem, driving innovation and growth through AI, and empowering our people and businesses to understand and engage with AI.
