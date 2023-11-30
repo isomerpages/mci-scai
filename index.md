@@ -4,7 +4,7 @@ title: Singapore Conference on AI (SCAI)
 description: The Singapore Conference on AI (SCAI) serves as a pivotal nexus,
   bringing together an international array of AI experts from diverse
   backgrounds in academia and industry.
-image: /images/isomer-logo.svg
+image: /images/scai_share.jpeg
 permalink: /
 notification: ""
 sections:
