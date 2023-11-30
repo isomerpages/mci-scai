@@ -6,7 +6,7 @@ description: ""
 ---
 ## Our brain trust of AI
 
-We are honoured to have to have the following distinguished AI practitioners from various fields of academia and industry contribute their expertise, insights, and experiences to the discussions at SCAI.
+We are honoured to have these distinguished AI experts from various fields of academia, industry and governent shape the discussions at SCAI.
 
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
