@@ -6,7 +6,7 @@ description: ""
 ---
 ## Meet the directors of SCAI
 
-<div style="padding: 25px 0px 0px 0px;"></div>
+<div style="padding: 25px 0px 25px 0px;"></div>
 
 <div style="width:50%"><img src="/images/People/he_ruimin.jpeg" alt="Dr He Ruimin"></div>
 
@@ -14,7 +14,7 @@ description: ""
 
 Ruimin He is Singapore’s Chief Artificial Intelligence (AI) Officer, where he leads a multi-stakeholder effort to achieve Singapore's strategic AI objectives, including developing and implementing Singapore's national AI strategy. He is also concurrently the Singaporean government’s Deputy Chief Digital Technology Officer, and a member of the United Nations High Level Advisory Body on AI. Ruimin has a BS in Electrical Science and Engineering, and a PhD in Economics, both from the Massachusetts Institute of Technology.
 
-<div style="padding: 25px 0px 0px 0px;"></div>
+<div style="padding: 25px 0px 25px 0px;"></div>
 
 <div style="width:50%"><img src="/images/People/weng_wanyi.jpeg" alt="Weng Wanyi"></div>
 
@@ -22,7 +22,7 @@ Ruimin He is Singapore’s Chief Artificial Intelligence (AI) Officer, where he 
 
 Wanyi Weng runs both the Government Data Division and the National AI Office at the Smart Nation Group. She’s passionate about the intersection of AI technologies, responsible data use and transformation of public service - having seen its value in a previous life as a police officer. Wanyi has a BA in History and MSc in History of International Relations from the London School of Economics; and a MSc in Public Policy &amp; Management (Data) from Carnegie Mellon University. She is also the proud mother of 2 young children.
 
-<div style="padding: 25px 0px 0px 0px;"></div>
+<div style="padding: 25px 0px 25px 0px;"></div>
 
 <div style="width:50%"><img src="/images/People/brendan.jpeg" alt="Dr Brendan Fong"></div>
 
