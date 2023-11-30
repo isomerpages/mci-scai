@@ -4,9 +4,9 @@ links:
     collection: goal
   - title: The People
     collection: people
+  - title: The Process
+    url: /proceedings
   - title: The Outcomes
     collection: outcomes
   - title: Media Hub
     resource_room: true
-  - title: The Process
-    url: /proceedings
