@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - About SCAI.md
-      - SCAI Opening Remarks.md
