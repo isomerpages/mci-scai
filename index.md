@@ -40,8 +40,8 @@ sections:
   - infopic:
       title: The SCAI Community
       id: infopic
-      description: SCAI convenes AI experts to articulate the critical questions of
-        AI, emphasising their significance and actionable approaches.
+      description: SCAI convenes a global, diverse, community of AI experts. They come
+        from academia, government, and industry, from numerous countries.
       button: Learn more
       url: /community/
       image: /images/Banners/Ai_banner_lady_2.jpg
