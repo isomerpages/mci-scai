@@ -39,7 +39,7 @@ sections:
       image: /images/Banners/Ai_banner_child.jpg
       alt: Image alt text
   - infopic:
-      title: Uncover the key challenges in today's AI landscape
+      title: Uncovering key challenges in today's AI landscape
       id: infopic
       description: SCAI brings together AI experts globally to identify pivotal
         questions crucial for unlocking AI's full potential.
