@@ -10,7 +10,7 @@ The Singapore Conference on AI (SCAI) serves as a pivotal nexus, bringing togeth
 
 This unique gathering is organised by Singapore's [Smart Nation Group](https://smartnation.gov.sg/) and the  [Ministry of Communications and Information](https://mci.gov.sg/), in partnership with [Topos Institute](https://topos.site/). 
 
-Centered around the theme '**For the Global Good**', SCAI focuses on identifying critical questions of AI, that if answered systematically, will enable AI to truly be developed and deployed for the global good.
+Centred around the theme '**For the Global Good**', SCAI focuses on identifying critical questions of AI, that if answered systematically, will enable AI to truly be developed and deployed for the global good.
 
 <div style="padding: 25px 0px 0px 0px;">
 
