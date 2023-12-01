@@ -6,7 +6,7 @@ description: SCAI convenes a global, diverse, community of AI experts. They come
   from academia, government, and industry, from numerous countries.
 image: /images/scai_share.jpeg
 ---
-## Our brain trust of AI
+## Our brain trust of AI Experts
 
 We are honoured to have these distinguished AI experts from various fields of academia, industry and governent shape the discussions at SCAI.
 
