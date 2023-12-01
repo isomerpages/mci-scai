@@ -4,8 +4,7 @@ permalink: /privacy/
 variant: markdown
 description: ""
 ---
-Government Agency Privacy Statement
-===================================
+## Government Agency Privacy Statement
 
 1.  This is a Government of Singapore website. Thank you for examining our privacy statement. If you are only browsing this website, we do not capture data that allows us to identify you individually.
     
