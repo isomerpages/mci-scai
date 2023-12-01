@@ -1,32 +1,49 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Singapore Conference on AI (SCAI)
+description: The Singapore Conference on AI (SCAI) serves as a pivotal nexus,
+  bringing together an international array of AI experts from diverse
+  backgrounds in academia and industry.
+image: /images/scai_share.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/SCAI_Banner_Date.jpg
+      key_highlights:
+        - title: THE GOAL
+          description: Find out more about SCAI
+          url: /about
+        - title: THE PEOPLE
+          description: Meet the brain trust of AI
+          url: /community
+        - title: THE PROCESS
+          description: Learn more about our approach
+          url: /proceedings
+        - title: THE OUTCOMES
+          description: Delve into the findings
+          url: /findings
+      variant: image
+      backgroundColor: gray
+      alignment: left
+      size: md
+      title: Singapore Conference on AI for the Global Good
+  - infopic:
+      title: For the Global Good
+      id: infopic
+      description: SCAI seeks to identify the critical questions of AI that impede
+        AI's development and deployment for the global good.
+      button: Learn more
+      url: /about
+      image: /images/Banners/Ai_banner_child.jpg
+      alt: Image alt text
+  - infopic:
+      title: The SCAI Community
+      id: infopic
+      description: SCAI convenes a global, diverse, community of AI experts. They come
+        from academia, government, and industry, from numerous countries.
+      button: Learn more
+      url: /community/
+      image: /images/Banners/Ai_banner_lady_2.jpg
+      alt: Image alt text
 ---
-

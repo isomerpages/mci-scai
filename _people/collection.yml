@@ -1,0 +1,6 @@
+collections:
+  people:
+    output: true
+    order:
+      - SCAI Community.md
+      - Conference Directors.md

@@ -1,0 +1,5 @@
+collections:
+  process:
+    output: true
+    order:
+      - SCAI Proceedings.md
