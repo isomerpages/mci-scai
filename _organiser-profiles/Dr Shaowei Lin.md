@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/shaowei.jpeg" alt="Dr Shaowei Lin"></div>
 
-**Dr Shaowei Lin**<br>*Director of Research, Topos Institute*<br>
+**Dr Shaowei LIN**<br>*Director of Research, Topos Institute*<br>
 
 ---
 
