@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/seth_lazar.jpeg" alt="Professor Seth Lazar"></div>
 
-**Professor Seth Lazar**<br>*Professor of Philosophy*<br>*Australian National University*<br>
+**Professor Seth LAZAR**<br>*Professor of Philosophy*<br>*Australian National University*<br>
 
 ---
 
