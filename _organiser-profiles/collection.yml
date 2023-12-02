@@ -1,0 +1,4 @@
+collections:
+  organiser-profiles:
+    output: true
+    order: []
