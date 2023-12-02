@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/wolfgang_maass.jpeg" alt="Professor Wolfgang Maass"></div>
 
-**Professor Wolfgang Maass**<br>*Professor of Computer Science <br>Director of the European Lab for Learning and Intelligent Systems-Unit Graz<br> Expert for brain-inspired AI and neuromorphic engineering*<br>
+**Professor Wolfgang MAASS**<br>*Professor of Computer Science*<br>*Director of the European Lab for Learning and Intelligent Systems-Unit Graz*<br>
 
 ---
 
