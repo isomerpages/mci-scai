@@ -5,7 +5,7 @@ variant: markdown
 description: Meet the directors of Singapore Conference on AI (SCAI).
 image: /images/scai_share.jpeg
 ---
-## Meet the directors of SCAI
+## Directors of SCAI
 
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
