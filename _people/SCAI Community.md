@@ -53,7 +53,7 @@ We are honoured to have these distinguished AI experts from various fields of ac
 
 <div class="row" style="padding: 20px 0px 0px 0px;">	
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/ryota-kanai/"><img src="/images/People/ryota_kanai.jpeg" alt="Dr Ryota Kanai"></a><br><strong>Dr Ryota KANAI</strong><br><span style="font-size:15px; line-height:15px"><em>Founder &amp; Chief Executive Officer of Araya, Inc.</em></span><br><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/ryota-kanai/"><img src="/images/People/ryota_kanai.jpeg" alt="Dr Ryota Kanai"></a><br><strong>Dr Ryota KANAI</strong><br><span style="font-size:15px; line-height:15px"><em>Founder and Chief Executive Officer, Araya, Inc.</em></span><br><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/silver-keskkula/"><img src="/images/People/silver_keskkula.jpeg" alt="Silver Keskküla"></a><br><strong>Silver KESKKÜLA</strong><br><span style="font-size:15px; line-height:15px"><em>Chief Executive Officer, trackAIanswers.com</em><br><br></span></div>
 	
