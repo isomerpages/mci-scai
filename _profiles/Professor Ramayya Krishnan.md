@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/ramayya_krishnan.jpeg" alt="Professor Ramayya Krishnan"></div>
 
-**Professor Ramayya Krishnan**<br>*Professor of Management Science and Information Systems*<br>*Carnegie Mellon University*<br>
+**Professor RAMAYYA Krishnan**<br>*Professor of Management Science and Information Systems*<br>*Carnegie Mellon University*<br>
 
 ---
 
