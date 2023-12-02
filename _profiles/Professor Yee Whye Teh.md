@@ -4,9 +4,9 @@ permalink: /profiles/yee-whye-teh/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/yee_whye_teh.jpeg" alt="Professor Yee-Whye Teh"></div>
+<div style="width:50%"><img src="/images/People/yee_whye_teh_2.jpg" alt="Professor Yee-Whye Teh"></div>
 
-**Professor Yee-Whye Teh**<br>*Professor of Statistical Machine Learning*<br>*University of Oxford*<br>
+**Professor Yee-Whye TEH**<br>*Professor of Statistical Machine Learning*<br>*University of Oxford*<br>
 
 ---
 
