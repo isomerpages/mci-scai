@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/jeanette_kwek.jpeg" alt="Jeanette Kwek"></div>
 
-**Jeanette Kwek**<br>*Head, Centre for Strategic Futures*<br>
+**Jeanette KWEK**<br>*Head, Centre for Strategic Futures*<br>
 
 ---
 
