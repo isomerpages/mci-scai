@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/ho_teck_hua.jpeg" alt="Professor Ho Teck Hua"></div>
 
-**Professor Ho Teck Hua**<br>*President and Distinguished University Professor*<br>*Nanyang Technological University*<br>
+**Professor HO Teck Hua**<br>*Founding Executive Chairman*<br>*AI Singapore*
 
 ---
 

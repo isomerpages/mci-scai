@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/florian_ostmann.jpeg" alt="Dr Florian Ostmann"></div>
 
-**Dr Florian Ostmann**<br>*Head of AI Governance and Regulatory Innovation*<br>*The Alan Turing Institute*<br>
+**Dr Florian OSTMANN**<br>*Head of AI Governance and Regulatory Innovation*<br>*The Alan Turing Institute*<br>
 
 ---
 

@@ -4,9 +4,9 @@ permalink: /profiles/dan-hendrycks/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/dan_hendrycks.jpeg" alt="Dr Dan Hendrycks"></div>
+<div style="width:50%"><img src="/images/People/dan_hendrycks_2.jpg" alt="Dr Dan Hendrycks"></div>
 
-**Dr Dan Hendrycks**<br>*Executive Director*<br>*Center for AI Safety*<br>
+**Dr Dan HENDRYCKS**<br>*Executive Director*<br>*Center for AI Safety*<br>
 
 ---
 

@@ -4,9 +4,9 @@ permalink: /profiles/alex-smola/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/alex_smola.jpeg" alt="Dr Alex Smola"></div>
+<div style="width:50%"><img src="/images/People/alex_smola_2.jpg" alt="Dr Alex Smola"></div>
 
-**Dr Alex Smola**<br>*CEO and Co-Founder*<br>*Boson AI*<br>
+**Dr Alex SMOLA**<br>*Co-Founder and Chief Executive Officer*<br>*Boson AI*<br>
 
 ---
 

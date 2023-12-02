@@ -4,9 +4,9 @@ permalink: /profiles/pang-wei-koh/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/pang_wei_koh.jpeg" alt="Professor Pang Wei Koh"></div>
+<div style="width:50%"><img src="/images/People/pang_wei_koh.jpg" alt="Professor Pang Wei Koh"></div>
 
-**Professor Pang Wei Koh**<br>*Assistant Professor*<br>*Allen School of Computer Science &amp; Engineering*<br>*University of Washington*<br>
+**Professor Pang Wei KOH**<br>*Assistant Professor of Computer Science*<br>*University of Washington*<br>
 
 ---
 

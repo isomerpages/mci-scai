@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/steven_hoi.jpeg" alt="Dr Steven Hoi"></div>
 
-**Dr Steven Hoi**<br>*Founder and CEO, HyperGAI*<br>*Former Salesforce VP of AI Research and founding MD of Salesforce Research Asia*<br>
+**Dr Steven HOI**<br>*Founder and Chief Executive Officer*<br> *HyperGAI*<br>
 
 ---
 

@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/jeremy_kranz.jpeg" alt="Jeremy Kranz"></div>
 
-**Jeremy Kranz**<br>*Venture Capital for 25 Years*<br>*Managing Partner, Sentinel Global*<br>*Former Managing Director, GIC Technology Investment Group*<br>
+**Jeremy KRANZ**<br>*Managing Partner*<br>*Sentinel Global*<br>
 
 ---
 

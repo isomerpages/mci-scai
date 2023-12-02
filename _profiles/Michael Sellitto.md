@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/michael_sellitto.jpeg" alt="Michael Sellitto"></div>
 
-**Michael Sellitto**<br>*Head of Geopolitics and Security*<br>*Anthropic*<br>
+**Michael SELLITTO**<br>*Head of Geopolitics and Security*<br>*Anthropic*<br>
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Rumman Chowdhury
+title: Dr Rumman Chowdhury
 permalink: /profiles/rumman-chowdhury/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/rumman_chowdhury.jpeg" alt="Rumman Chowdhury"></div>
+<div style="width:50%"><img src="/images/People/rumman_chowdhury_2.png" alt="Rumman Chowdhury"></div>
 
-**Rumman Chowdhury**<br>*Co-Founder and CEO*<br>*Humane Intelligence*<br>
+**Dr Rumman CHOWDHURY**<br>*Founder and Chief Executive Officer*<br>*Humane Intelligence*<br>
 
 ---
 

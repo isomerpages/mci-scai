@@ -1,12 +1,12 @@
 ---
-title: Dr HongJiang Zhang
+title: Dr Hong Jiang Zhang
 permalink: /profiles/hongjiang-zhang/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/hongjiang_zhang.jpeg" alt="Dr HongJiang Zhang"></div>
+<div style="width:50%"><img src="/images/People/hongjiang_zhang_2.JPG" alt="Dr HongJiang Zhang"></div>
 
-**Dr HongJiang Zhang**<br>*Chairman*<br>*Beijing Academy of Artificial Intelligence*<br>
+**Dr Hong Jiang ZHANG**<br>*Chairman*<br>*Beijing Academy of Artificial Intelligence*<br>
 
 ---
 

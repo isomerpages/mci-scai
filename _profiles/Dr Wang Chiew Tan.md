@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/wang_chiew_tan.jpeg" alt="Dr Wang-Chiew Tan"></div>
 
-**Dr Wang-Chiew Tan**<br>*AI Research Scientist*<br>*Meta*<br>
+**Dr Wang-Chiew TAN**<br>*AI Research Scientist*<br>*Meta Reality Labs Research*<br>
 
 ---
 

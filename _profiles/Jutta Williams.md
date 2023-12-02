@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/jutta_williams.jpeg" alt="Jutta Williams"></div>
 
-**Jutta Williams**<br>*Co-Founder and COO*<br>*Humane Intelligence*<br>
+**Jutta WILLIAMS**<br>*Co-Founder and Chief Operating Officer*<br>*Humane Intelligence*<br>
 
 ---
 

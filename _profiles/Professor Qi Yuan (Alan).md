@@ -1,12 +1,12 @@
 ---
-title: Professor Alan Qi
+title: Professor Qi Yuan (Alan)
 permalink: /profiles/alan-qi/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/qi_alan.jpeg" alt="Professor Alan Qi"></div>
+<div style="width:50%"><img src="/images/People/qi_alan_2.jpeg" alt="Professor Alan Qi"></div>
 
-**Professor Alan Qi**<br>*Chair Professor*<br>*Dean of AI3 institute of Fudan University*<br>
+**Professor QI Yuan (Alan)**<br>*Professor of Computer Science and Dean of AI3 Lab*<br>*Fudan University*<br>
 
 ---
 

@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/soujanya_poria.jpeg" alt="Dr Soujanya Poria"></div>
 
-**Dr Soujanya Poria**<br>*Assistant Professor of NLP*<br>*Singapore University of Technology and Design*<br>
+**Dr Soujanya PORIA**<br>*Assistant Professor of Natural Language Processing*<br>*Singapore University of Technology and Design*<br>
 
 ---
 

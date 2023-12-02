@@ -4,9 +4,9 @@ permalink: /profiles/yaodong-yang/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/yaodong_yang.jpeg" alt="Dr Yaodong Yang"></div>
+<div style="width:50%"><img src="/images/People/yaodong_yang_2.jpg" alt="Dr Yaodong Yang"></div>
 
-**Dr Yaodong Yang**<br>*Assistant Professor*<br>*Institute of AI, Peking University*<br>
+**Dr Yaodong YANG**<br>*Assistant Professor*<br>*Peking University Institute of AI*<br>
 
 ---
 

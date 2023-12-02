@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/joscha_bach.jpeg" alt="Dr Joscha Bach"></div>
 
-**Dr Joscha Bach**<br>*AI Scientist*<br>*LiquidAI*<br>
+**Dr Joscha BACH**<br>*AI Scientist*<br>*LiquidAI*<br>
 
 ---
 

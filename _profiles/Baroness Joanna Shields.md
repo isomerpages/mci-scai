@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/baroness_joanna_shields.jpeg" alt="Baroness Joanna Shields"></div>
 
-**Baroness Joanna Shields**<br>*CEO*<br>*Benevolent AI*<br>
+**Baroness Joanna SHIELDS**<br>*Founder and Chief Executive Officer*<br>*Precognition*<br>
 
 ---
 

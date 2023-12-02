@@ -4,9 +4,9 @@ permalink: /profiles/leong-tze-yun/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/leong_tze_yun.jpeg" alt="Professor Leong Tze Yun"></div>
+<div style="width:50%"><img src="/images/People/leong_tze_yun_2.jpg" alt="Professor Leong Tze Yun"></div>
 
-**Professor Leong Tze Yun**<br>*Professor of Computer Science, National University of Singapore (NUS)*<br>*Director, NUS Artificial Intelligence Laboratory*<br>
+**Professor LEONG Tze Yun**<br>*Professor of Computer Science, National University of Singapore*<br>*Director, NUS Artificial Intelligence Laboratory*<br>
 
 ---
 

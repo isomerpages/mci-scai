@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/georgios_piliouras.jpeg" alt="Dr Georgios Piliouras"></div>
 
-**Dr Georgios Piliouras**<br>*Associate Professor*<br>*Singapore University of Technology and Design*<br>*Senior Research Scientist*<br>*Google DeepMind*<br>
+**Dr Georgios PILIOURAS**<br>*Senior Research Scientist*<br>*Google DeepMind*<br>*Associate Professor*<br>*Singapore University of Technology and Design*<br>
 
 ---
 

@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/marwan_alserkal.jpeg" alt="Marwan Alserkal"></div>
 
-**Marwan Alserkal**<br>*Policymaker, UAE AI, Digital Economy and Remote Work Applications Office*<br>
+**Marwan ALSERKAL**<br>*Policymaker, UAE AI, Digital Economy and Remote Work Applications Office*<br>
 
 ---
 
