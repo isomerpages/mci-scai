@@ -11,3 +11,6 @@ description: ""
 ---
 
 Wanyi Weng runs both the Government Data Division and the National AI Office at the Smart Nation Group. She’s passionate about the intersection of AI technologies, responsible data use and transformation of public service - having seen its value in a previous life as a police officer. Wanyi has a BA in History and MSc in History of International Relations from the London School of Economics; and a MSc in Public Policy &amp; Management (Data) from Carnegie Mellon University. She is also the proud mother of 2 young children.
+
+
+[Return to list of conference directors](/directors)
