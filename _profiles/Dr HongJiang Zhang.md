@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/hongjiang_zhang.jpeg" alt="Dr HongJiang Zhang"></div>
 
-**Dr HongJiang Zhang**<br>*Chairman*<br>*Beijing Academy of Artificial Intelligence*<br>
+**Dr Hong Jiang ZHANG**<br>*Chairman*<br>*Beijing Academy of Artificial Intelligence*<br>
 
 ---
 
