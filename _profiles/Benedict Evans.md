@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/benedict_evan.jpeg" alt="Benedict Evans"></div>
 
-**Benedict Evans**<br>*Independent Analyst*<br>
+**Benedict EVANS**<br>*Independent Analyst*<br>
 
 ---
 
