@@ -1,0 +1,7 @@
+collections:
+  directors-profiles:
+    output: true
+    order:
+      - Dr He Ruimin.md
+      - Weng Wanyi.md
+      - Dr Brendan Fong.md
