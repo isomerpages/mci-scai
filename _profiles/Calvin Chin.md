@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/calvin_chin.jpeg" alt="Calvin Chin"></div>
 
-**Calvin Chin**<br>*Managing Partner, E14 Fund*<br>*Affiliate, MIT Media Lab*<br>
+**Calvin CHIN**<br>*Managing Partner, E14 Fund*<br>*Affiliate, Massachusetts Institute of Technology Media Lab*<br>
 
 ---
 
