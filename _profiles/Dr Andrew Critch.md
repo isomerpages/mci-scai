@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/andrew_critch.jpeg" alt="Dr Andrew Critch"></div>
 
-**Dr Andrew CRITCH**<br>*Chief Executive Officer, Encultured AI<br> Research Scientist, University of California, Berkeley*
+**Dr Andrew CRITCH**<br>*Chief Executive Officer*<br> *Encultured AI*<br>*Research Scientist*<br>*University of California, Berkeley*
 
 ---
 
