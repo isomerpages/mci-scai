@@ -4,9 +4,9 @@ permalink: /profiles/irene-solaiman/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/irene_solaiman.jpeg" alt="Irene Solaiman"></div>
+<div style="width:50%"><img src="/images/People/irene_solaiman_2.jpg" alt="Irene Solaiman"></div>
 
-**Irene Solaiman**<br>*Head of Global Policy*<br>*Hugging Face*<br>
+**Irene SOLAIMAN**<br>*Head of Global Policy*<br>*Hugging Face*<br>
 
 ---
 
