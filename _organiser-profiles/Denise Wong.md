@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/denise_wong.jpeg" alt="Denise Wong"></div>
 
-**Denise Wong**<br>*Assistant Chief Executive, Infocomm Media Development Authority*<br>
+**Denise WONG**<br>*Assistant Chief Executive, Infocomm Media Development Authority*<br>
 
 ---
 
