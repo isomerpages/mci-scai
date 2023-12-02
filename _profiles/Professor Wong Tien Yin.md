@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/wong_tien_yin.jpeg" alt="Professor Wong Tien Yin"></div>
 
-**Professor Wong Tien Yin**<br>*Vice Provost, Tsinghua University*<br>*Founding Head and Chair Professor, Tsinghua Medicine*<br>*Senior Advisor, SingHealth &amp; Singapore National Eye Centre*<br>
+**Professor WONG Tien Yin**<br>*Vice Provost*<br>*Tsinghua University*<br>*Founding Head and Chair Professor*<br>*Tsinghua Medicine*<br>
 
 ---
 
