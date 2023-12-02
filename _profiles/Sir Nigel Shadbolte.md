@@ -4,9 +4,9 @@ permalink: /profiles/nigel-shadbolt/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/nigel_shadbolt.jpeg" alt="Sir Nigel Shadbolte"></div>
+<div style="width:50%"><img src="/images/People/nigel_shadbolt_2.jpg" alt="Sir Nigel Shadbolte"></div>
 
-**Sir Nigel Shadbolte**<br>*Professor of Computer Science*<br>*University of Oxford*<br>
+**Sir Nigel SHADBOLT**<br>*Professor of Computer Science*<br>*University of Oxford*<br>
 
 ---
 
