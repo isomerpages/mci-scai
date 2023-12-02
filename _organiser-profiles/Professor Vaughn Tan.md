@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/vaughn_tan.jpeg" alt="Professor Vaughn Tan"></div>
 
-**Professor Vaughn Tan**<br>*Assistant Professor of Strategy, University College London*<br>
+**Professor Vaughn TAN**<br>*Assistant Professor of Strategy, University College London*<br>
 
 ---
 
