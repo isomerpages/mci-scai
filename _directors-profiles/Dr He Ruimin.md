@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/he_ruimin.jpeg" alt="Dr He Ruimin"></div>
 
-**Dr He Ruimin**<br>*Chief Artificial Intelligence Officer &amp; Deputy Chief Digital Technology Officer, Government of Singapore*<br>
+**Dr HE Ruimin**<br>*Chief Artificial Intelligence Officer &amp; Deputy Chief Digital Technology Officer, Government of Singapore*<br>
 
 ---
 
