@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/clifton_phua.jpeg" alt="Dr Clifton Phua"></div>
 
-**Dr Clifton Phua**<br>*Director of Labs, Infocomm Media Development Authority*<br>
+**Dr Clifton PHUA**<br>*Director of Labs, Infocomm Media Development Authority*<br>
 
 ---
 
