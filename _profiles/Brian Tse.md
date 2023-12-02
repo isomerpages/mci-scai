@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/brian_tse.jpeg" alt="Brian Tse"></div>
 
-**Brian Tse**<br>*Founder and CEO*<br>*Concordia Consulting*<br>
+**Brian TSE**<br>*Founder and Chief Executive Officer*<br>*Concordia AI*<br>
 
 ---
 
