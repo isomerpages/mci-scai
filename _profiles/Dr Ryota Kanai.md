@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/ryota_kanai.jpeg" alt="Dr Ryota Kanai"></div>
 
-**Dr Ryota Kanai**<br>*Founder &amp; CEO*<br>*Araya, Inc.*<br>
+**Dr Ryota KANAI**<br>*Founder and Chief Executive Officer*<br>*Araya, Inc.*<br>
 
 ---
 
