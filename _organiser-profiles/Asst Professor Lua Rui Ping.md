@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/rui_ping.jpeg" alt="Asst Professor Lua Rui Ping"></div>
 
-**Asst Professor Lua Rui Ping**<br>*Director of Capabilities, Infrastructure and Governance, Smart Nation Group*<br>
+**Asst Professor LUA Rui Ping**<br>*Director of Capabilities, Infrastructure and Governance, Smart Nation Group*<br>
 
 ---
 
