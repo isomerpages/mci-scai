@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/silver_keskkula.jpeg" alt="Silver Keskküla"></div>
 
-**Silver Keskküla**<br>*CEO*<br>*trackAIanswers.com*<br>
+**Silver KESKKÜLA**<br>*Chief Executive Officer*<br>*trackAIanswers.com*<br>
 
 ---
 
