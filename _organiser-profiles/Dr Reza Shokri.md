@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/reza_shokri.jpeg" alt="Dr Reza Shokri"></div>
 
-**Dr Reza Shokri**<br>*Assistant Professor of Computer Science, National University of Singapore*<br>
+**Dr Reza SHOKRI**<br>*Assistant Professor of Computer Science, National University of Singapore*<br>
 
 ---
 
