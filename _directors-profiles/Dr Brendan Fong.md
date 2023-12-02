@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/brendan.jpeg" alt="Dr Brendan Fong"></div>
 
-**Dr Brendan Fong**<br>*Chief Executive, Topos Institute*<br>
+**Dr Brendan FONG**<br>*Chief Executive, Topos Institute*<br>
 
 ---
 
