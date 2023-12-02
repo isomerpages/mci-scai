@@ -2,17 +2,17 @@ collections:
   organiser-profiles:
     output: true
     order:
-      - Jeanette Kwek.md
-      - Yik Jiawei.md
-      - Sutowo Wong.md
-      - Denise Wong.md
-      - Liana Tang.md
-      - Dr Reza Shokri.md
-      - Dr Clifton Phua.md
-      - Asst Professor Lua Rui Ping.md
-      - Dr Bryan Low.md
-      - David Low.md
-      - Professor Simon Chesterman.md
-      - Eric Chua.md
-      - Professor Vaughn Tan.md
       - Dr Shaowei Lin.md
+      - Professor Vaughn Tan.md
+      - Eric Chua.md
+      - Professor Simon Chesterman.md
+      - David Low.md
+      - Dr Bryan Low.md
+      - Asst Professor Lua Rui Ping.md
+      - Dr Clifton Phua.md
+      - Dr Reza Shokri.md
+      - Liana Tang.md
+      - Denise Wong.md
+      - Sutowo Wong.md
+      - Yik Jiawei.md
+      - Jeanette Kwek.md
