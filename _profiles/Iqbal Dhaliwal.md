@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/iqbal_dhaliwal.jpeg" alt="Iqbal Dhaliwal"></div>
 
-**Iqbal Dhaliwal**<br>*Global Executive Director, J-PAL*<br>*Massachusetts Institute of Technology*<br>
+**Iqbal DHALIWAL**<br>*Global Executive Director, J-PAL*<br>*Massachusetts Institute of Technology*<br>
 
 ---
 
