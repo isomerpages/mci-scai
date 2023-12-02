@@ -2,5 +2,6 @@ collections:
   people:
     output: true
     order:
+      - Facilitators & Sherpas.md
       - SCAI Community.md
       - Conference Directors.md
