@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/weng_wanyi.jpeg" alt="Weng Wanyi"></div>
 
-**Weng Wanyi**<br>*Director of the National AI Office &amp; Government Data Division, Government of Singapore*<br>
+**WENG Wanyi**<br>*Director of the National AI Office &amp; Government Data Division, Government of Singapore*<br>
 
 ---
 
