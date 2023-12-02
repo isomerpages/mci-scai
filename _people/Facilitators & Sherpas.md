@@ -4,10 +4,7 @@ permalink: /facilitators-sherpas/
 variant: markdown
 description: ""
 ---
-## Meet the people behind SCAI
-
-
-### Facilitators
+## Facilitators
 
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
@@ -20,7 +17,7 @@ description: ""
 
 </div>
 
-### Sherpas
+## Sherpas
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
