@@ -2,6 +2,7 @@ collections:
   organiser-profiles:
     output: true
     order:
+      - Asst Professor Lua Rui Ping.md
       - Dr Bryan Low.md
       - David Low.md
       - Professor Simon Chesterman.md
