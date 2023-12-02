@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/illyas_khan.jpeg" alt="Illyas Khan"></div>
 
-**Ilyas Khan**<br>*Founder*<br>*Chief Product Officer and Vice-Chairman of Quantinuum*<br>
+**Ilyas KHAN**<br>*Founder, Vice-Chairman and Chief Product Officer* <br>*Quantinuum*<br>
 
 ---
 
