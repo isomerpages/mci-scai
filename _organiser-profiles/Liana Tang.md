@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/liana_tang.jpeg" alt="Liana Tang"></div>
 
-**Liana Tang**<br>*Second Director of Smart Nation Strategy Office, Ministry of Communications and Information*<br>
+**Liana TANG**<br>*Second Director of Smart Nation Strategy Office, Ministry of Communications and Information*<br>
 
 ---
 
