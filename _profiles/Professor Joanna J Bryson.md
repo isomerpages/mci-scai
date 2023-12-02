@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/joanna_bryson_2.jpg" alt="Professor Joanna J. Bryson"></div>
 
-**Professor Joanna J. Bryson**<br>*Professor of Ethics and Technology*<br>*Hertie School of Governance Berlin*<br>
+**Professor Joanna J. BRYSON**<br>*Professor of Ethics and Technology*<br>*Hertie School of Governance Berlin*<br>
 
 ---
 
