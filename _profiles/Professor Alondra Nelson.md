@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/alondra_nelson_2.jpg" alt="Alondra Nelson"></div>
 
-**Alondra NELSON**<br>*Harold F. Linder Professor of Social Science*<br>*Institute for Advanced Study*<br>
+**Professor Alondra NELSON**<br>*Harold F. Linder Professor of Social Science*<br>*Institute for Advanced Study*<br>
 
 ---
 
