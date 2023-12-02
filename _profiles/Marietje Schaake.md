@@ -4,9 +4,9 @@ permalink: /profiles/marietje-schaake/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/marietje_schaake.jpeg" alt="Marietje Schaake"></div>
+<div style="width:50%"><img src="/images/People/marietje_schaake_2.jpeg" alt="Marietje Schaake"></div>
 
-**Marietje Schaake**<br>*International Policy Fellow*<br>*Stanford Institute for Human-Centered Artificial Intelligence (HAI)*<br>
+**Marietje SCHAAKE**<br>*International Policy Fellow*<br>*Stanford Institute for Human-Centered Artificial Intelligence (HAI)*<br>
 
 ---
 
