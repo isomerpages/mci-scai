@@ -4,7 +4,7 @@ permalink: /organiser-profiles/sutowo-wong/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/sutowo_wongjpeg" alt="Sutowo Wong"></div>
+<div style="width:50%"><img src="/images/People/sutowo_wong.jpeg" alt="Sutowo Wong"></div>
 
 **Sutowo Wong**<br>*Director of Health Analytics Division, Ministry of Health*<br>
 
