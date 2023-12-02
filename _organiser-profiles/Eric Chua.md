@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/eric_chua.jpeg" alt="Eric Chua"></div>
 
-**Eric Chua**<br>*Director, Digital Economy Office, Ministry of Communications and Information*<br>
+**Eric CHUA**<br>*Director, Digital Economy Office, Ministry of Communications and Information*<br>
 
 ---
 
