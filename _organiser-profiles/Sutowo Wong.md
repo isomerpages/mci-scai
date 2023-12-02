@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/sutowo_wong.jpeg" alt="Sutowo Wong"></div>
 
-**Sutowo Wong**<br>*Director of Health Analytics Division, Ministry of Health*<br>
+**Sutowo WONG**<br>*Director of Health Analytics Division, Ministry of Health*<br>
 
 ---
 
