@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/jaan_tallinn.jpeg" alt="Jaan Tallinn"></div>
 
-**Jaan Tallinn**<br>*Co-Founder*<br>*Future of Life Institute*<br>
+**Jaan TALLINN**<br>*Co-Founder*<br>*Future of Life Institute*<br>
 
 ---
 
