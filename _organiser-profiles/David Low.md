@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/david_low.jpeg" alt="David Low"></div>
 
-**David Low**<br>*Director of Legal, Smart Nation Group*<br>
+**David LOW**<br>*Director of Legal, Smart Nation Group*<br>
 
 ---
 
