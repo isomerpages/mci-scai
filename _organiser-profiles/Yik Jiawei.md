@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/yik_jiawei.jpeg" alt="Yik Jiawei"></div>
 
-**Yik Jiawei**<br>*Director of Strategy and Planning, Cyber Security Agency of Singapore*<br>
+**YIK Jiawei**<br>*Director of Strategy and Planning, Cyber Security Agency of Singapore*<br>
 
 ---
 
