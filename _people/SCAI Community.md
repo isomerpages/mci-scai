@@ -163,4 +163,4 @@ We are honoured to have these distinguished AI experts from various fields of ac
 	
 </div>
 
-[Return to top](/community/#our-brain-trust-of-ai)
+[Return to top](/community/#our-brain-trust-of-ai-experts)
