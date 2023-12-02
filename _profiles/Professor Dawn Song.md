@@ -4,9 +4,9 @@ permalink: /profiles/dawn-song/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/dawn_song.jpeg" alt="Professor Dawn Song"></div>
+<div style="width:50%"><img src="/images/People/dawn_2.jpg" alt="Professor Dawn Song"></div>
 
-**Professor Dawn Song**<br>*Professor of Security/Privacy, AI/ML*<br>*University of California at Berkeley*<br>
+**Professor Dawn SONG**<br>*Professor of Security/Privacy, AI/ML*<br>*University of California,Berkeley*<br>
 
 ---
 
