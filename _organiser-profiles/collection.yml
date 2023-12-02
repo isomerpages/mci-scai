@@ -1,4 +1,5 @@
 collections:
   organiser-profiles:
     output: true
-    order: []
+    order:
+      - Dr Shaowei Lin.md
