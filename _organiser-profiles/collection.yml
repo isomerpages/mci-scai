@@ -2,4 +2,5 @@ collections:
   organiser-profiles:
     output: true
     order:
+      - Professor Vaughn Tan.md
       - Dr Shaowei Lin.md
