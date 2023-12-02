@@ -2,5 +2,6 @@ collections:
   organiser-profiles:
     output: true
     order:
+      - Eric Chua.md
       - Professor Vaughn Tan.md
       - Dr Shaowei Lin.md
