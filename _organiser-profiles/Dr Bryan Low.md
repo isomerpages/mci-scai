@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/bryan_low.jpeg" alt="Dr Bryan Low"></div>
 
-**Dr Bryan Low**<br>*Associate Professor of Computer Science, National University of Singapore*<br>
+**Dr Bryan LOW**<br>*Associate Professor of Computer Science, National University of Singapore*<br>
 
 ---
 
