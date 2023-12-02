@@ -57,15 +57,15 @@ We are honoured to have these distinguished AI experts from various fields of ac
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/silver-keskkula/"><img src="/images/People/silver_keskkula.jpeg" alt="Silver Keskküla"></a><br><strong>Silver KESKKÜLA</strong><br><span style="font-size:15px; line-height:15px"><em>Chief Executive Officer, trackAIanswers.com</em><br><br></span></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/illyas-khan/"><img src="/images/People/illyas_khan.jpeg" alt="Illyas Khan"></a><br><strong>Illyas KHAN</strong><br><span style="font-size:15px; line-height:15px"><em>Founder, Vice-Chairman and Chief Product Officer, Quantinuum</em></span></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/illyas-khan/"><img src="/images/People/illyas_khan_2.jpg" alt="Illyas Khan"></a><br><strong>Illyas KHAN</strong><br><span style="font-size:15px; line-height:15px"><em>Founder, Vice-Chairman and Chief Product Officer, Quantinuum</em></span></div>
 
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">		
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/pang-wei-koh/"><img src="/images/People/pang_wei_koh.jpeg" alt="Professor Pang Wei Koh"></a><br><strong>Professor Pang Wei KOH</strong><br><span style="font-size:15px; line-height:15px"><em>Assistant Professor of Computer Science, University of Washington</em></span><br><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/pang-wei-koh/"><img src="/images/People/pang_wei_koh.jpg" alt="Professor Pang Wei Koh"></a><br><strong>Professor Pang Wei KOH</strong><br><span style="font-size:15px; line-height:15px"><em>Assistant Professor of Computer Science, University of Washington</em></span><br><br></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/james-kondo/"><img src="/images/People/james_kondo.jpeg" alt="James Kondo"></a><br><strong>James KONDO</strong><br><span style="font-size:15px; line-height:15px"><em>Senior Advisor, OpenAI</em></span><br><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/james-kondo/"><img src="/images/People/james_kondo_2.jpg" alt="James Kondo"></a><br><strong>James KONDO</strong><br><span style="font-size:15px; line-height:15px"><em>Senior Advisor, OpenAI</em></span><br><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/jeremy-kranz/"><img src="/images/People/jeremy_kranz.jpeg" alt="Jeremy Kranz"></a><br><strong>Jeremy KRANZ</strong><br><span style="font-size:15px; line-height:15px"><em>Managing Partner, Sentinel Global</em></span><br><br></div>
 
@@ -75,7 +75,7 @@ We are honoured to have these distinguished AI experts from various fields of ac
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/seth-lazar/"><img src="/images/People/seth_lazar.jpeg" alt="Professor Seth Lazar"></a><br><strong>Professor Seth LAZAR</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Philosophy, Australian National University</em></span><br><br></div>
 
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/leong-tze-yun/"><img src="/images/People/leong_tze_yun.jpeg" alt="Professor Leong Tze Yun"></a><br><strong>Professor LEONG Tze Yun</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Computer Science, National University of Singapore; Director, NUS Artificial Intelligence Laboratory
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/leong-tze-yun/"><img src="/images/People/leong_tze_yun_2.jpg" alt="Professor Leong Tze Yun"></a><br><strong>Professor LEONG Tze Yun</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Computer Science, National University of Singapore; Director, NUS Artificial Intelligence Laboratory
 </em></span><br><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/wolfgang-maass/"><img src="/images/People/wolfgang_maass.jpeg" alt="Professor Wolfgang Maass"></a><br><strong>Professor Wolfgang MAASS</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Computer Science, Director of the European Lab for Learning and Intelligent Systems-Unit Graz</em></span><br><br></div>
@@ -84,7 +84,7 @@ We are honoured to have these distinguished AI experts from various fields of ac
 
 <div class="row" style="padding: 20px 0px 0px 0px;">		
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/alondra-nelson/"><img src="/images/People/alondra_nelson.jpeg" alt="Professor Alondra Nelson"></a><br><strong>Professor Alondra NELSON</strong><br><span style="font-size:15px; line-height:15px"><em>Harold F. Linder Professor of Social Science, Institute for Advanced Study</em></span><br><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/alondra-nelson/"><img src="/images/People/alondra_nelson_2.jpg" alt="Professor Alondra Nelson"></a><br><strong>Professor Alondra NELSON</strong><br><span style="font-size:15px; line-height:15px"><em>Harold F. Linder Professor of Social Science, Institute for Advanced Study</em></span><br><br></div>
 
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/florian-ostmann/"><img src="/images/People/florian_ostmann.jpeg" alt="Dr Florian Ostmann"></a><br><strong>Dr Florian OSTMANN</strong><br><span style="font-size:15px; line-height:15px"><em>Head of AI Governance and Regulatory Innovation, The Alan Turing Institute</em></span><br><br></div>	
 
@@ -114,7 +114,7 @@ We are honoured to have these distinguished AI experts from various fields of ac
 
 <div class="row" style="padding: 20px 0px 0px 0px;">	
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/nigel-shadbolt/"><img src="/images/People/nigel_shadbolt.jpeg" alt="Sir Nigel Shadbolt"></a><br><strong>Sir Nigel SHADBOLT</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Computer Science, University of Oxford</em></span><br><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/nigel-shadbolt/"><img src="/images/People/nigel_shadbolt_2.jpg" alt="Sir Nigel Shadbolt"></a><br><strong>Sir Nigel SHADBOLT</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Computer Science, University of Oxford</em></span><br><br></div>
 
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/baroness-joanna-shields/"><img src="/images/People/baroness_joanna_shields.jpeg" alt="Baroness Joanna Shields"></a><br><strong>Baroness Joanna SHIELDS</strong><br><span style="font-size:15px; line-height:15px"><em>Founder and Chief Executive Officer,Precognition</em></span><br><br></div>
 	
@@ -124,7 +124,7 @@ We are honoured to have these distinguished AI experts from various fields of ac
 
 <div class="row" style="padding: 20px 0px 0px 0px;">	
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/irene-solaiman/"><img src="/images/People/irene_solaiman.jpeg" alt="Irene Solaiman"></a><br><strong>Irene SOLAIMAN</strong><br><span style="font-size:15px; line-height:15px"><em>Head of Global Policy, Hugging Face</em></span><br><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/irene-solaiman/"><img src="/images/People/irene_solaiman_2.jpg" alt="Irene Solaiman"></a><br><strong>Irene SOLAIMAN</strong><br><span style="font-size:15px; line-height:15px"><em>Head of Global Policy, Hugging Face</em></span><br><br></div>
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/dawn-song/"><img src="/images/People/dawn_2.jpg" alt="Professor Dawn Song"></a><br><strong>Professor Dawn SONG</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Security/Privacy, AI/ML, University of California, Berkeley</em></span><br><br></div>
 	
@@ -137,7 +137,7 @@ We are honoured to have these distinguished AI experts from various fields of ac
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/wang-chiew-tan/"><img src="/images/People/wang_chiew_tan.jpeg" alt="Dr Wang-Chiew Tan"></a><br><strong>Dr Wang-Chiew TAN</strong><br><span style="font-size:15px; line-height:15px"><em>AI Research Scientist, Meta Reality Labs Research</em></span><br><br></div>	
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/yee-whye-teh/"><img src="/images/People/yee_whye_teh.jpeg" alt="Professor Yee-Whye Teh"></a><br><strong>Professor Yee-Whye TEH</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Statistical Machine Learning, University of Oxford</em></span><br><br></div>	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/yee-whye-teh/"><img src="/images/People/yee_whye_teh_2.jpg" alt="Professor Yee-Whye Teh"></a><br><strong>Professor Yee-Whye TEH</strong><br><span style="font-size:15px; line-height:15px"><em>Professor of Statistical Machine Learning, University of Oxford</em></span><br><br></div>	
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/brian-tse/"><img src="/images/People/brian_tse.jpeg" alt="Brian Tse"></a><br><strong>Brian TSE</strong><br><span style="font-size:15px; line-height:15px"><em>Founder and Chief Executive Officer, Concordia AI</em></span><br><br></div>
 	
@@ -155,7 +155,7 @@ We are honoured to have these distinguished AI experts from various fields of ac
 
 <div class="row" style="padding: 20px 0px 0px 0px;">	
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/hongjiang-zhang/"><img src="/images/People/hongjiang_zhang.jpeg" alt="Dr HongJiang Zhang"></a><br><strong>Dr Hong Jiang ZHANG</strong><br><span style="font-size:15px; line-height:15px"><em>Chairman, Beijing Academy of Artificial Intelligence</em></span><br><br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/hongjiang-zhang/"><img src="/images/People/hongjiang_zhang_2.JPG" alt="Dr HongJiang Zhang"></a><br><strong>Dr Hong Jiang ZHANG</strong><br><span style="font-size:15px; line-height:15px"><em>Chairman, Beijing Academy of Artificial Intelligence</em></span><br><br></div>
 
 <div class="col" style="padding: 10px 20px 0px 20px;"></div>
 	
