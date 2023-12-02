@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/chen_jiahao.jpeg" alt="Dr Chen Jiahao"></div>
 
-**Dr Chen Jiahao**<br>*Owner*<br>*Responsible AI LLC*<br>
+**Dr CHEN Jiahao**<br>*Owner*<br>*Responsible AI LLC*<br>
 
 ---
 
