@@ -2,5 +2,5 @@ collections:
   directors-profiles:
     output: true
     order:
-      - Weng Wanyi.md
       - Dr He Ruimin.md
+      - Weng Wanyi.md
