@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/nicholas_roy.jpeg" alt="Professor Nicholas Roy"></div>
 
-**Professor Nicholas Roy**<br>*Professor of Aeronautics and Astronautics*<br>*Massachusetts Institute of Technology*<br>
+**Professor Nicholas ROY**<br>*Professor of Aeronautics and Astronautics*<br>*Massachusetts Institute of Technology*<br>
 
 ---
 
