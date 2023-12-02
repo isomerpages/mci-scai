@@ -2,6 +2,7 @@ collections:
   organiser-profiles:
     output: true
     order:
+      - David Low.md
       - Professor Simon Chesterman.md
       - Eric Chua.md
       - Professor Vaughn Tan.md
