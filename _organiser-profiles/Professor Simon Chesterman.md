@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="width:50%"><img src="/images/People/simon_chesterman.jpeg" alt="Professor Simon Chesterman"></div>
 
-**Professor Simon Chesterman**<br>*David Marshall Professor and Vice Provost (Educational Innovation), National University of Singapore*<br>
+**Professor Simon CHESTERMAN**<br>*David Marshall Professor and Vice Provost (Educational Innovation), National University of Singapore*<br>
 
 ---
 
