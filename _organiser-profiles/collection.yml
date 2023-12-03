@@ -2,7 +2,6 @@ collections:
   organiser-profiles:
     output: true
     order:
-      - Sng Ren Yeong.md
       - Dr Shaowei Lin.md
       - Professor Vaughn Tan.md
       - Eric Chua.md
@@ -17,3 +16,4 @@ collections:
       - Sutowo Wong.md
       - Yik Jiawei.md
       - Jeanette Kwek.md
+      - Sng Ren Yeong.md
