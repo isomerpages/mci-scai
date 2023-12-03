@@ -41,7 +41,7 @@ description: ""
 
 <div class="row" style="padding: 20px 0px 0px 0px;">	
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/organiser-profiles/ren-yeong/"><img src="/images/People/ren_yeong.jpg" alt="Sng Ren Yeong"></a><br><strong>SNG Ren Yeong</strong><br><span style="font-size:15px; line-height:15px"><em>Managing Director, Artificial Intelligence Strategy &amp; Solutions, Temasek Board Director, minden.ai</em></span><br><br></div>	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/organiser-profiles/ren-yeong/"><img src="/images/People/ren_yeong.jpg" alt="Sng Ren Yeong"></a><br><strong>SNG Ren Yeong</strong><br><span style="font-size:15px; line-height:15px"><em>Managing Director, Artificial Intelligence Strategy &amp; Solutions, Temasek</em></span><br><br></div>	
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/organiser-profiles/liana-tang/"><img src="/images/People/liana_tang.jpeg" alt="Liana Tang"></a><br><strong>Liana TANG</strong><br><span style="font-size:15px; line-height:15px"><em>Second Director of Smart Nation Strategy Office, Ministry of Communications and Information</em></span><br><br></div>	
 
