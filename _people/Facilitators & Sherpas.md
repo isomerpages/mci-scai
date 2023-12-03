@@ -21,9 +21,9 @@ description: ""
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/organiser-profiles/eric-chua/"><img src="/images/People/eric_chua.jpeg" alt="Eric Chua"></a><br><strong>Eric CHUA</strong><br><span style="font-size:15px; line-height:15px"><em>Director, Digital Economy Office, Ministry of Communications and Information</em></span><br><br></div>	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/organiser-profiles/eric-chua/"><img src="/images/People/eric_chua.jpeg" alt="Eric Chua"></a><br><strong>Eric CHUA</strong><br><span style="font-size:15px; line-height:15px"><em>Director, Digital Economy Office, Ministry of Communications and Information    </em></span><br><br></div>	
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/organiser-profiles/simon-chesterman/"><img src="/images/People/simon_chesterman.jpeg" alt="Professor Simon Chesterman"></a><br><strong>Professor Simon CHESTERMAN</strong><br><span style="font-size:15px; line-height:15px"><em>David Marshall Professor and Vice Provost (Educational Innovation), National University of Singapore</em></span><br><br></div>	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/organiser-profiles/ren-yeong/"><img src="/images/People/ren_yeong.jpg" alt="Sng Ren Yeong"></a><br><strong>SNG Ren Yeong</strong><br><span style="font-size:15px; line-height:15px"><em>Managing Director, Artificial Intelligence Strategy &amp; Solutions, Temasek Board Director, minden.ai</em></span><br><br></div>	
 
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/organiser-profiles/david-low/"><img src="/images/People/david_low.jpeg" alt="David Low"></a><br><strong>David LOW</strong><br><span style="font-size:15px; line-height:15px"><em>Director of Legal, Smart Nation Group</em></span><br><br></div>	
 
