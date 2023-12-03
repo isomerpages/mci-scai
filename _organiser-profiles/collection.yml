@@ -2,6 +2,7 @@ collections:
   organiser-profiles:
     output: true
     order:
+      - Sng Ren Yeong.md
       - Dr Shaowei Lin.md
       - Professor Vaughn Tan.md
       - Eric Chua.md
