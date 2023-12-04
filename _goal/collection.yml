@@ -2,5 +2,5 @@ collections:
   goal:
     output: true
     order:
-      - Opening Remarks.md
       - About SCAI.md
+      - Opening Remarks.md
