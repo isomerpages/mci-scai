@@ -4,8 +4,6 @@ permalink: /gallery/day2/
 variant: markdown
 description: ""
 ---
-SCAI is ongoing. Stay tuned for updates.
-
 ![](/images/Banners/to_be_announced.jpg)
 
-<div style="padding: 25px 0px 0px 0px;"></div>
+We are currently curating the photos to bring you the best highlights. Stay tuned for updates!
