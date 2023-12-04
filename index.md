@@ -33,17 +33,17 @@ sections:
       id: infopic
       description: SCAI seeks to identify the critical questions of AI that impede
         AI's development and deployment for the global good.
-      button: Button Text
+      button: Learn More
       url: /about
       image: /images/Day 1/scai_day_1_22.jpeg
-      alt: Image alt text
+      alt: For the Global Good
   - infopic:
       title: The SCAI Community
       id: infopic
       description: SCAI convenes a global, diverse, community of AI experts. They come
         from academia, government, and industry, from numerous countries.
-      button: Button Text
+      button: Learn More
       url: /community
       image: /images/Day 1/scai_day_1_13.jpeg
-      alt: Image alt text
+      alt: SCAI Community
 ---
