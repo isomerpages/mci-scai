@@ -8,5 +8,7 @@ links:
     url: /proceedings
   - title: The Outcomes
     collection: outcomes
+  - title: Gallery
+    collection: gallery
   - title: Media Hub
     resource_room: true
