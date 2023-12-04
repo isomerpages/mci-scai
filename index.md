@@ -37,4 +37,13 @@ sections:
       url: /about
       image: /images/Day 1/scai_day_1_22.jpeg
       alt: Image alt text
+  - infopic:
+      title: The SCAI Community
+      id: infopic
+      description: SCAI convenes a global, diverse, community of AI experts. They come
+        from academia, government, and industry, from numerous countries.
+      button: Button Text
+      url: /community
+      image: /images/Day 1/scai_day_1_13.jpeg
+      alt: Image alt text
 ---
