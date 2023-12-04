@@ -2,4 +2,4 @@ collections:
   gallery:
     output: true
     order:
-      - Gallery.md
+      - Day 1.md
