@@ -3,3 +3,5 @@ collections:
     output: true
     order:
       - Day 1.md
+      - Day 2.md
+      - Day 3.md
