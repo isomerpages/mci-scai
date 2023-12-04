@@ -13,4 +13,4 @@ Over three days, our delegates will explore and articulate top questions impedin
 
 Starting from broad areas of concern, we will systematically elicit, cluster and refine questions. For each question, we will highlight the context, impetus, promising approaches, and measurements of progress.
 
-![SCAI process](/images/Process/scai_process.png)
+![SCAI process](/images/Process/the_scai_process.png)
