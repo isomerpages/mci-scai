@@ -28,4 +28,13 @@ sections:
       alignment: left
       size: md
       title: Singapore Conference on AI for the Global Good
+  - infopic:
+      title: For the Global Good
+      id: infopic
+      description: SCAI seeks to identify the critical questions of AI that impede
+        AI's development and deployment for the global good.
+      button: Button Text
+      url: /about
+      image: /images/Day 1/scai_day_1_22.jpeg
+      alt: Image alt text
 ---
