@@ -4,7 +4,7 @@ permalink: /scai-questions/
 variant: markdown
 description: ""
 ---
-## SCAI Questions
+## The SCAI Questions
 
 <div style="padding: 25px 0px 0px 0px;"></div>
 
