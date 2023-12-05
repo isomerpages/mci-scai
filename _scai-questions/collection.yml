@@ -2,15 +2,15 @@ collections:
   scai-questions:
     output: true
     order:
-      - SCAI Question 12.md
-      - SCAI Question 11.md
-      - SCAI Question 10.md
-      - SCAI Question 9.md
-      - SCAI Question 8.md
-      - SCAI Question 7.md
-      - SCAI Question 6.md
-      - SCAI Question 5.md
-      - SCAI Question 4.md
-      - SCAI Question 3.md
-      - SCAI Question 2.md
       - SCAI Question 1.md
+      - SCAI Question 2.md
+      - SCAI Question 3.md
+      - SCAI Question 4.md
+      - SCAI Question 5.md
+      - SCAI Question 6.md
+      - SCAI Question 7.md
+      - SCAI Question 8.md
+      - SCAI Question 9.md
+      - SCAI Question 10.md
+      - SCAI Question 11.md
+      - SCAI Question 12.md
