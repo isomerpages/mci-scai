@@ -2,6 +2,7 @@ collections:
   scai-questions:
     output: true
     order:
+      - SCAI Question 12.md
       - SCAI Question 11.md
       - SCAI Question 10.md
       - SCAI Question 9.md
