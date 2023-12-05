@@ -2,4 +2,5 @@ collections:
   scai-questions:
     output: true
     order:
+      - SCAI Question 2.md
       - SCAI Question 1.md
