@@ -52,7 +52,7 @@ Singapore has been taking steps to master and make good use of AI.
 
 * In the public service of Singapore, we have embraced AI.
 
-	i. We use large learning models to help our officers reply to public queries. It has been very helpful for them, because with a click of FOR IMMEDIATE REPORTING 3 a button you get a draft prepared for you, and most of the work is already done. 
+	i. We use large learning models to help our officers reply to public queries. It has been very helpful for them, because with a click of a button you get a draft prepared for you, and most of the work is already done. 
 
 	ii. We are using our own secure version of ChatGPT to improve productivity. For example, for coding and writing assignments. AI has not helped me to write my speech yet, I still have to do it on my own. But I am sure if I put this through ChatGPT it will give it an excellent summary, and in time to come AI will be able to draft a fairly decent speech.
 
