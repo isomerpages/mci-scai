@@ -123,6 +123,7 @@ Of course, to achieve these goals, Singapore also needs reliable access to compu
 Another area of action is to build a trusted environment.
 * Even as we take steps to reap the benefits of AI, we are mindful of the risks and challenges.
 * There are many ways that AI can be misused:
+	
 	i. A whole range of bad things that can happen, powered by AI: from deepfakes, to scams, to cyber-attacks and the spreading of misinformation.
 	
 	ii. There may even be problems with decision making: AI models may work well 99% of the time; but even that 1% can potentially wreak havoc and lead to disastrous consequences.
