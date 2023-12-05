@@ -7,10 +7,9 @@ description: ""
 image: ""
 variant: markdown
 ---
-## Opening Remarks by Mrs Josephine Teo, Minister for Communications and Information, at the Singapore Conference on AI
+## Opening Remarks by Mrs Josephine Teo, Minister for Communications and Information, at the Singapore Conference on AI, 4 December 2023
 
 **4 December 2023**
-
 
 ![Opening remarks for SCAI](/images/Day%201/scai_day_1_01.jpeg)
 	
@@ -38,7 +37,9 @@ I mention Dr Winsemius because he was a most respected friend of Singapore, whos
 
 There is, however, one big difference.
 
-Our conviction is that when it comes to AI, it is not only what Singapore can learn from the world, but also what we can contribute to it.
+<div style="padding: 25px 0px 0px 0px;"></div>
+
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4b789b; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Our conviction is that when it comes to AI, it is not only what Singapore can learn from the world, but also what we can contribute to it.</div>
 
 Through SCAI, we hope to offer a platform for experts and thought-leaders to come together, to share knowledge and ideas to foster international collaboration – a brain trust, if you will.
 
@@ -89,6 +90,8 @@ Two weeks ago, I attended a talk by Dr Lydia Liu, an incoming Assistant Professo
 Lydia’s work showed that applying common algorithmic fairness criteria, for example, using credit scores as loan approval criteria, do not necessarily lead to fair outcomes for people over time. Instead, it is essential to go beyond pure theory to also consider system dynamics and interaction effects in order to make practical, positive impact. I found her conclusions to be very thoughtful. Lydia’s spirit of moving beyond generalities, towards practical purpose, is very much in Singapore’s DNA.
 
 Similarly, for SCAI to be useful, we want to build upon declarations of principles, to deepen the conversations in concrete terms. We aim to systematically focus on the outcomes we want to achieve, identify the current state of the art, outline promising approaches, and articulate the means to measure progress.
+
+![Opening remarks for SCAI](/images/Day%201/scai_day_1_02.jpeg)
 
 Over the next three days, will we succeed in identifying a set of sharp, grounded, SCAI questions that help shape the global agenda on AI? We don’t know for sure. SCAI is an experiment, and we will be collectively learning along the way.
 
