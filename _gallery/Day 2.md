@@ -4,10 +4,6 @@ permalink: /gallery/day2/
 variant: markdown
 description: ""
 ---
-## SCAI - Day 2
-
-<div style="padding: 25px 0px 0px 0px;"></div>
-
 <div class="row" style="padding: 0px 0px 0px 0px;">
 	
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_2_01.jpeg"><img src="/images/Day%202/scai_day_2_01.jpeg" alt="SCAI"></a></div>	
