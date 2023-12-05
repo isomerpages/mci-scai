@@ -1,6 +1,8 @@
 ---
 title: SCAI Photos
 permalink: /gallery/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+##  Gallery
+
