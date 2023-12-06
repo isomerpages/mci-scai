@@ -56,4 +56,5 @@ Progress is clearly possible, and will be marked by the following:
 * Better evaluations incorporating multidisciplinary approaches.
 * Robust criteria for determining when value implementation has failed and AI systems are too unsafe to release.
 
+---
 <sup>1</sup> https://nap.nationalacademies.org/catalog/26507/fostering-responsible-computing-research-foundations-and-practices
