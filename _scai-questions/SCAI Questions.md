@@ -39,25 +39,25 @@ description: ""
 <div style="padding: 50px 0px 0px 0px;"></div>
 
 <div style="font-size:18px; line-height:2; color: #4b789b"><b>SCAI QUESTION 6</b></div>
-<div style="font-size:24px; line-height:2;">To be announced<br></div>
+<div style="font-size:24px; line-height:2;">How do we elicit the values and norms to which we wish to align AI systems, and implement them?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-6/">Click here for details</a>
 
 <div style="padding: 50px 0px 0px 0px;"></div>
 
 <div style="font-size:18px; line-height:2; color: #4b789b"><b>SCAI QUESTION 7</b></div>
-<div style="font-size:24px; line-height:2;">To be announced<br></div>
+<div style="font-size:24px; line-height:2;">Where in the AI ecosystem should we ensure equitable access, control and fair competition? How should we address these concerns?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-7/">Click here for details</a>
 
 <div style="padding: 50px 0px 0px 0px;"></div>
 
 <div style="font-size:18px; line-height:2; color: #4b789b"><b>SCAI QUESTION 8</b></div>
-<div style="font-size:24px; line-height:2;">To be announced<br></div>
+<div style="font-size:24px; line-height:2;">How can we use AI to enhance the effectiveness, efficiency, and accessibility of education across societies around the world?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-8/">Click here for details</a>
 
 <div style="padding: 50px 0px 0px 0px;"></div>
 
 <div style="font-size:18px; line-height:2; color: #4b789b"><b>SCAI QUESTION 9</b></div>
-<div style="font-size:24px; line-height:2;">How can we mitigate the variety of catastrophic risks and ongoing harms arising from AI, in a manner that is sensitive to the many diverse opinions regarding the severity, probability, time sensitivity, and recoverability of those harms?<br></div>
+<div style="font-size:24px; line-height:2;">How can we mitigate the catastrophic risks and ongoing harms arising from AI, recognising that there are diverse opinions on the severity, probability, time sensitivity, and recoverability of these risks and harms?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-9/">Click here for details</a>
 
 <div style="padding: 50px 0px 0px 0px;"></div>
