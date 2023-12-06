@@ -14,7 +14,7 @@ Governance and regulation have a key role to play in shaping the direction of de
 
 Success requires coherence and integration of governance structures and regulatory measures across multiple dimensions. These should ideally encompass different sectors and regulatory remits, various points of intervention across the AI lifecycle and AI value chains, different types of regulatory tools, and several levels of governance (municipal, national, regional, and international/global). 
 
-In order to achieve this integration, and to do so with legitimacy, it is important that processes of designing governance structures and regulatory measures are inclusive of perspectives of the diverse groups in society whose interests are at stake and whose expertise can help identify solutions, including users, businesses, policymakers, civil society, and academia.
+In order to achieve this integration, and to do so with legitimacy, it is important that processes of designing governance structures and regulatory measures are inclusive of perspectives from the diverse groups in society whose interests are at stake and whose expertise can help identify solutions, including users, businesses, policymakers, civil society, and academia.
 
 Legitimacy also depends on ensuring checks and balances, enforcement and accountability mechanisms, as well as the prevention of abuses of power by those who deploy and use AI.
 
@@ -26,9 +26,9 @@ Answering this question involves determining the appropriate combination of stru
 
 * **Legitimacy:** Which parties have legitimacy to establish governance mechanisms in a given jurisdictional context (government vs. non-government actors; collective or representative organisations)?
 * **Sectors and regulatory remits:** What is the optimal combination of governance and regulation designed to apply to AI horizontally vs. in specific sectors vs. in specific use cases/applications?
-* **Types of governance tools:** What is the optimal combination of different regulatory levers, such as legislation, mandatory codes of practice, voluntary frameworks, standards, and principles, public procurement rules, and other tools which can be used to achieve desired practices and outcomes?
+* **Types of governance tools:** What is the optimal combination of different regulatory levers, such as legislation, mandatory codes of practice, voluntary frameworks, standards and principles, public procurement rules, and other tools which can be used to achieve desired practices and outcomes?
 * **Points of intervention:** What is the optimal combination of structures and measures that target different stages in the AI lifecycle, different segments in the AI value chain, and should these be implemented as ex ante requirements (e.g. as preconditions for licensing or regulatory approval) or as ex post actions (e.g. requirements to take remedial actions after the fact)?
-* **Levels of governance:** What is the optimal combination of municipal, national, regional, and international measures? To what extent is international alignment or harmonisation desirable and achievable (as opposed to instances of divergence that are unavoidable due to fundamental differences in political ideologies and values, and respect for state sovereignty)?
+* **Levels of governance:** What is the optimal combination of municipal, national, regional, and international/global measures? To what extent is international/global alignment or harmonisation desirable and achievable (as opposed to instances of divergence that are unavoidable due to fundamental differences in political ideologies and values, and respect for state sovereignty)?
 * **Accountability:** What do enforcement and accountability look like? Who should be responsible for enforcement, and what mechanisms are appropriate (e.g. criminal sanctions, regulatory penalties, access blocks and bans)?
 
 #### Indicators of Progress
