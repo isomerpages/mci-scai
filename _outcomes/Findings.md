@@ -6,10 +6,6 @@ description: SCAI seeks to identify the critical questions of AI that impede
   AI's development and deployment for the global good.
 image: /images/scai_share.jpeg
 ---
-## The SCAI Questions
-
-SCAI is ongoing, and findings from discussions will be published soon. Stay tuned for updates.
-
-![](/images/Banners/to_be_announced.jpg)
-
-<div style="padding: 25px 0px 0px 0px;"></div>
+<div style="width:100%;text-align:center; font-size:32px; font-weight: 700; color: #ed1a3b;">The URL has been updated.</div>
+	
+<div style="width:100%;text-align:center; font-size:22px; font-weight: 500;">Click on the link below to be redirected to the new page.<br><br><a href="/foreword-scai-questions/">https://www.scai.gov.sg/foreword-scai-questions/</a></div>
