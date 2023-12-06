@@ -23,3 +23,13 @@ For referencing or citing this document in academic or professional contexts, pl
 <div style="padding: 25px 25px 25px 25px; background-color: #f9f9f9; line-height:2;">Singapore Ministry of Communications and Information &amp; Smart Nation Group, in partnership with Topos Institute. (2023). Preliminary Conversations Towards AI for the Global Good: The SCAI Questions. Proceedings of the Singapore Conference on AI for the Global Good, 2-6 December 2023, Singapore. Available at: https://www.scai.gov.sg/findings.</div>
 
 [List of the SCAI Questions](/scai-questions)
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 15px 15px 15px 15px;"><a href="https://go.gov.sg/scai-questions"><img style="border:1px solid black;" src="" alt="The SCAI Questions">The SCAI Questions</a></div>
+	
+<div class="col" style="padding: 15px 15px 15px 15px;"></div>
+
+<div class="col" style="padding: 10px 20px 10px 20px;"></div>
+
+</div>
