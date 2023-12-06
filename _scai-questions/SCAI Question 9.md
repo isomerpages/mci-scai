@@ -12,7 +12,7 @@ description: ""
 
 We recognise there is a range of views on what are the risks and harms that can arise, and their severity, probability, time sensitivity, and recoverability. For instance, here are some potential risks and our estimates on their time scales:
 
-![](/images/Process/Impact_table.png)
+![](/images/Process/Impact_table_final.png)
 
 ![](/images/Risk_table.png)
 
