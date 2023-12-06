@@ -10,13 +10,13 @@ These Questions were conceptualised and written by the SCAI delegates over the 3
 
 Good questions are hard to frame, especially in a domain as emergent and boundary-spanning as AI. The SCAI Questions are the best-effort of the delegates gathering together, debating and then consolidating their views over 3 days in Singapore. They are certainly not final, and we invite commentators and researchers to use these Questions as a springboard for further research, collaboration and innovation.
 
-In terms of format, each Question begins by stating upfront the context and assumptions which the delegates had in mind, followed by an elaboration of the possible approaches to answering the question, and finally on known challenges and obstacles.
+In terms of format, each Question begins by stating upfront the context and assumptions which the delegates had in mind, followed by an elaboration of the possible approaches to answering the question, known challenges, and ways we might recognise progress.
 
 The SCAI Questions are a collective, collaborative, product of the conversations amongst SCAI delegates. They do not necessarily represent the views of individual participants, or the organising parties of SCAI.
 
-The ordering of the SCAI Questions are solely for ease of reference and do not reflect a hierarchy of importance.
+The ordering of the SCAI Questions is solely for ease of reference and does not reflect a hierarchy of importance.
 
-For referencing or citing The SCAI Questions in academic or professional contexts, please use the following format:&nbsp;
+For referencing or citing this document in academic or professional contexts, please use the following format:
 
 <div style="padding: 25px 0px 0px 0px;"></div>
 
