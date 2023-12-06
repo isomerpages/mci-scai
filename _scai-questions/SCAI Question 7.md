@@ -14,7 +14,7 @@ Recent developments in AI have demonstrated tremendous potential to have both po
 
 #### Question
 
-**Where in the AI ecosystem should we ensure equitable access, control and fair competition? How should we address these concerns? **
+**Where in the AI ecosystem should we ensure equitable access, control and fair competition? How should we address these concerns?**
 
 Concerns with concentration of power apply to a range of issues, including but not limited to price, quality, volatility, restrictions in access (with particular attention to which communities might be marginalised), restrictions in developing capability (e.g., training or hardware limitations) and ability to shape outcomes/output. There are also emerging externalities (e.g., situations of great individual benefit which result in collective harm) which may be exacerbated by such concentrations. We also realise there are unrecognised benefits to more open access to both the resources required to build AI models as well as to AI models themselves. These include broader economic growth across sectors, and broader perspectives in building and deployment. At the same time, there are some things that should remain closed or not be broadly accessible, e.g., PII and sensitive information, healthcare data.
 
