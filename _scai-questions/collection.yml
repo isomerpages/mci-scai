@@ -2,7 +2,7 @@ collections:
   scai-questions:
     output: true
     order:
-      - Foreword.md
+      - The SCAI Questions.md
       - List of Questions.md
       - SCAI Question 1.md
       - SCAI Question 2.md
