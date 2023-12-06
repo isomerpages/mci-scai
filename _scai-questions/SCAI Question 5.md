@@ -40,7 +40,7 @@ Answering this core question is tightly coupled to the following additional ques
 * Do the cognitive architectures of the brain implicitly encode an inductive bias that is aligned with human values and judgement?
 * How can we ensure and maintain alignment between artificially intelligent agents and humanity?
 
-**Indicators of Progress**
+#### Indicators of Progress
 
 We expect that the best approaches to answering these questions will include:
 
