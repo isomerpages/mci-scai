@@ -6,7 +6,7 @@ description: ""
 ---
 ## Foreword to the SCAI Questions
 
-These Questions were conceptualised and written by the SCAI delegates over the 3 days of the conference, using a process designed to synthesise diverse views from experts. Each of the 12 SCAI Questions is envisioned to be a comprehensive articulation of a foundational, yet tractable area of AI development and/or deployment. The 12 SCAI Questions taken as a whole, are meant to be a holistic formulation of the challenges that should be addressed by the global AI community to allow humanity to flourish.
+The SCAI Questions were conceptualised and written by the SCAI delegates over the 3 days of the conference, using a process designed to synthesise diverse views from experts. Each of the 12 SCAI Questions is envisioned to be a comprehensive articulation of a foundational, yet tractable area of AI development and/or deployment. The 12 SCAI Questions taken as a whole, are meant to be a holistic formulation of the challenges that should be addressed by the global AI community to allow humanity to flourish.
 
 Good questions are hard to frame, especially in a domain as emergent and boundary-spanning as AI. The SCAI Questions are the best-effort of the delegates gathering together, debating and then consolidating their views over 3 days in Singapore. They are certainly not final, and we invite commentators and researchers to use these Questions as a springboard for further research, collaboration and innovation.
 
