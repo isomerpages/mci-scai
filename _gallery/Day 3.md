@@ -122,3 +122,13 @@ description: ""
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_36.jpeg"><img src="/images/Day%203/scai_day_3_36.jpeg" alt="SCAI"></a></div>		
 
 </div>
+
+<div class="row" style="padding: 0px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_37.jpeg"><img src="/images/Day%203/scai_day_3_37.jpeg" alt="SCAI"></a></div>	
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_39.jpeg"><img src="/images/Day%203/scai_day_3_39.jpeg" alt="SCAI"></a></div>		
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_40.jpeg"><img src="/images/Day%203/scai_day_3_40.jpeg" alt="SCAI"></a></div>		
+
+</div>
