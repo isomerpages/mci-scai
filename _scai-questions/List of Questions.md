@@ -1,5 +1,5 @@
 ---
-title: SCAI Questions
+title: List of Questions
 permalink: /scai-questions/
 variant: markdown
 description: ""
