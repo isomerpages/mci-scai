@@ -10,7 +10,7 @@ description: ""
 	
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_02.jpeg"><img src="/images/Day%203/scai_day_3_02.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_03.jpeg"><img src="/images/Day%203/scai_day_3_03.jpeg" alt="SCAI"></a></div>	
+
 
 </div>
 
@@ -28,7 +28,7 @@ description: ""
 	
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_07.jpeg"><img src="/images/Day%203/scai_day_3_07.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_08.jpeg"><img src="/images/Day%203/scai_day_3_08.jpeg" alt="SCAI"></a></div>	
+	
 	
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_09.jpeg"><img src="/images/Day%203/scai_day_3_09.jpeg" alt="SCAI"></a></div>	
 
@@ -36,7 +36,6 @@ description: ""
 
 <div class="row" style="padding: 0px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_10.jpeg"><img src="/images/Day%203/scai_day_3_10.jpeg" alt="SCAI"></a></div>	
 	
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_11.jpeg"><img src="/images/Day%203/scai_day_3_11.jpeg" alt="SCAI"></a></div>	
 	
@@ -68,7 +67,7 @@ description: ""
 	
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_19.jpeg"><img src="/images/Day%203/scai_day_3_19.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_20.jpeg"><img src="/images/Day%203/scai_day_3_20.jpeg" alt="SCAI"></a></div>	
+
 	
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_21.jpeg"><img src="/images/Day%203/scai_day_3_21.jpeg" alt="SCAI"></a></div>	
 
@@ -88,8 +87,38 @@ description: ""
 	
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_25.jpeg"><img src="/images/Day%203/scai_day_3_25.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_26.jpeg"><img src="/images/Day%203/scai_day_3_26.jpeg" alt="SCAI"></a></div>		
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_27.jpeg"><img src="/images/Day%203/scai_day_3_27.jpeg" alt="SCAI"></a></div>		
+
+</div>
+
+<div class="row" style="padding: 0px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_28.jpeg"><img src="/images/Day%203/scai_day_3_28.jpeg" alt="SCAI"></a></div>	
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_29.jpeg"><img src="/images/Day%203/scai_day_3_29.jpeg" alt="SCAI"></a></div>		
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_30.jpeg"><img src="/images/Day%203/scai_day_3_30.jpeg" alt="SCAI"></a></div>		
+
+</div>
+
+<div class="row" style="padding: 0px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_31.jpeg"><img src="/images/Day%203/scai_day_3_31.jpeg" alt="SCAI"></a></div>	
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_32.jpeg"><img src="/images/Day%203/scai_day_3_32.jpeg" alt="SCAI"></a></div>		
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_33.jpeg"><img src="/images/Day%203/scai_day_3_33.jpeg" alt="SCAI"></a></div>		
+
+</div>
+
+<div class="row" style="padding: 0px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_34.jpeg"><img src="/images/Day%203/scai_day_3_34.jpeg" alt="SCAI"></a></div>	
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_35.jpeg"><img src="/images/Day%203/scai_day_3_35.jpeg" alt="SCAI"></a></div>		
+	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_36.jpeg"><img src="/images/Day%203/scai_day_3_36.jpeg" alt="SCAI"></a></div>		
 
 </div>
