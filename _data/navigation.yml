@@ -4,10 +4,8 @@ links:
     collection: goal
   - title: The People
     collection: people
-  - title: The Process
-    url: /proceedings
   - title: The Outcomes
-    collection: outcomes
+    collection: scai-questions
   - title: Gallery
     collection: gallery
   - title: Media Hub
