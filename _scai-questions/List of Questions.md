@@ -68,7 +68,7 @@ description: ""
 
 <div style="padding: 50px 0px 0px 0px;"></div>
 
-<div style="font-size:18px; line-height:2; color: #4b789b">SCAI QUESTION 11</div>
+<div style="font-size:18px; line-height:2; color: #4b789b"><b>SCAI QUESTION 11</b></div>
 <div style="font-size:24px; line-height:2;">How can AI adopters effectively evaluate and apply AI models for social good?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-11/">Click here for details</a>
 
