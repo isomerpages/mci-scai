@@ -26,7 +26,7 @@ For referencing or citing this document in academic or professional contexts, pl
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 15px 15px 15px 15px;"><a href="https://go.gov.sg/scai-questions"><img style="border:1px solid black;" src="" alt="The SCAI Questions">The SCAI Questions</a></div>
+<div class="col" style="padding: 15px 15px 15px 15px;"><a href="https://go.gov.sg/scai-questions"><img style="border:1px solid black;" src="/images/Questions/scai_questions_cover.jpg" alt="The SCAI Questions">The SCAI Questions</a></div>
 	
 <div class="col" style="padding: 15px 15px 15px 15px;"></div>
 
