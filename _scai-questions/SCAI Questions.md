@@ -9,7 +9,7 @@ description: ""
 <div style="padding: 25px 0px 0px 0px;"></div>
 
 <div style="font-size:18px; line-height:2; color: #4b789b"><b>SCAI QUESTION 1</b></div>
-<div style="font-size:24px; line-height:2;">How can we create a data collection and sharing ecosystem that produces high-quality data for AI, which can be shared and exploited within and across countries?<br></div>
+<div style="font-size:24px; line-height:2;">How do we ensure that AI models and systems are reliable and trustworthy?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-1/">Click here for details</a>
 
 <div style="padding: 50px 0px 0px 0px;"></div>
@@ -63,17 +63,17 @@ description: ""
 <div style="padding: 50px 0px 0px 0px;"></div>
 
 <div style="font-size:18px; line-height:2; color: #4b789b"><b>SCAI QUESTION 10</b></div>
-<div style="font-size:24px; line-height:2;">To be announced<br></div>
+<div style="font-size:24px; line-height:2;">What are the appropriate speed bumps and incentives for content channels to reduce the negative impact of mis/disinformation campaigns?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-10/">Click here for details</a>
 
 <div style="padding: 50px 0px 0px 0px;"></div>
 
 <div style="font-size:18px; line-height:2; color: #4b789b">SCAI QUESTION 11</div>
-<div style="font-size:24px; line-height:2;">To be announced<br></div>
+<div style="font-size:24px; line-height:2;">How can AI adopters effectively evaluate and apply AI models for social good?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-11/">Click here for details</a>
 
 <div style="padding: 50px 0px 0px 0px;"></div>
 
 <div style="font-size:18px; line-height:2; color: #4b789b"><b>SCAI QUESTION 12</b></div>
-<div style="font-size:24px; line-height:2;">To be announced<br></div>
+<div style="font-size:24px; line-height:2;">How can we establish and uphold methodologies for AI safety evaluation?<br></div>
 <div style="font-size:18px; line-height:3.5;"><a href="/scai-question-12/">Click here for details</a></div></div></div></div></div></div></div></div></div></div></div></div>
