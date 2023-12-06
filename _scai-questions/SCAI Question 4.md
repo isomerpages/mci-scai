@@ -18,7 +18,7 @@ There are, however, some challenges. There is a general and systemic lack of int
 
 #### Question
 
-How should we advance AI to solve scientific problems that are critical and beneficial to humanity as a whole? 
+**How should we advance AI to solve scientific problems that are critical and beneficial to humanity as a whole?**
 
 In considering this question, we also need to think about how scientists and researchers across the world can come together to harness AI and prioritise resources in applying these powerful systems to scientific problems. 
 
