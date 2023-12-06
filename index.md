@@ -22,7 +22,7 @@ sections:
           url: /proceedings
         - title: THE OUTCOMES
           description: Delve into the findings
-          url: /findings
+          url: /foreword-scai-questions
       variant: image
       backgroundColor: gray
       alignment: left
