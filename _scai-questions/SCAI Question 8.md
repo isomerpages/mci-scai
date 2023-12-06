@@ -18,7 +18,7 @@ This approach relies on several assumptions. At the core, good access to infrast
 
 #### Question
 
-How can we design and implement a sustainable, AI-enhanced, open education ecosystem, with a sustainable mechanism for participation, with the ambition of making education more efficient, effective, and accessible for local communities and global society? 
+**How can we design and implement a sustainable, AI-enhanced, open education ecosystem, with a sustainable mechanism for participation, with the ambition of making education more efficient, effective, and accessible for local communities and global society?**
 
 Doing so will also enable us to maximise human capital across communities around the world, starting with maximising every student’s potential.
 
