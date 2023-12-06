@@ -22,7 +22,7 @@ An assumption behind this question is that there may be warning signs, and it wo
 
 #### Question
 
-How can we mitigate the catastrophic risks and ongoing harms arising from AI, recognising that there are diverse opinions on the severity, probability, time sensitivity and recoverability of these risks and harms?
+**How can we mitigate the catastrophic risks and ongoing harms arising from AI, recognising that there are diverse opinions on the severity, probability, time sensitivity and recoverability of these risks and harms?**
 
 If we are to understand this, we will also need a way to discuss and identify which risks and harms are considered catastrophic and deserving of more attention. For each such risk, we will need to answer the following questions: what are its warning signs (if possible)? Who should be entrusted to monitor for those signs? On what time scale might it happen? Who decides if the risk is worth taking, and how? And if we fail to avoid it completely, how can we mitigate its effects and recover from it, and at what cost?
 
