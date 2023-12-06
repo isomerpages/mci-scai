@@ -18,7 +18,7 @@ This approach relies on several assumptions. At the core, good access to infrast
 
 #### Question
 
-**How can we design and implement a sustainable, AI-enhanced, open education ecosystem, with a sustainable mechanism for participation, with the ambition of making education more efficient, effective, and accessible for local communities and global society?**
+**How can we design and implement an AI-enhanced, open education ecosystem, with a sustainable mechanism for participation, with the ambition of making education more efficient, effective, and accessible for local communities and global society?**
 
 Doing so will also enable us to maximise human capital across communities around the world, starting with maximising every student’s potential.
 
@@ -30,7 +30,7 @@ Given the complexity of education and the contextual needs of communities and co
 * Parents care about supporting and monitoring their childrens’ progress. AI can help them support them, such as in pointing out areas of improvement and suggest actions.
 * Teachers will benefit from spending less time on routine tasks such as grading, and can devote more time to foster creativity among students.
 * Content capture and creation is time consuming, thus a major hurdle for educators to share courses. AI can be used to automatically transcribe and generate material.
-* Curriculum design and optimization currently relies on the experience of lecturers, drawn from hundreds of students. A data-driven approach based on 100x more students can tailor curriculum for better learning, customised to individual students.
+* Curriculum design and optimization currently relies on the experience of lecturers, drawn from hundreds of students. A data-driven approach based on 100x more student experiences can tailor curriculum for better learning, customised to individual students.
 * Evaluation involves certification (of achieved degree), challenge (for progress) and control (of education objectives). Game mechanisms combined with empirical data can motivate students through suitably challenging problems and tests.
 * Accessibility tools are typically costly (subtitles, speed, visual aids); these can be added through AI tools at minimal cost.
 * Student interaction can be enhanced by social recommendations (student / tutor pairings, peer groups) and content moderation.
