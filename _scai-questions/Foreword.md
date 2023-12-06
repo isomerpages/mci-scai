@@ -12,7 +12,7 @@ Good questions are hard to frame, especially in a domain as emergent and boundar
 
 In terms of format, each Question begins by stating upfront the context and assumptions which the delegates had in mind, followed by an elaboration of the possible approaches to answering the question, known challenges, and ways we might recognise progress.
 
-The SCAI Questions are a collective, collaborative, product of the conversations amongst SCAI delegates. They do not necessarily represent the views of individual participants, or the organising parties of SCAI.
+The SCAI Questions are a collective and collaborative product of the conversations amongst SCAI delegates. They do not necessarily represent the views of individual participants, or the organising parties of SCAI.
 
 The ordering of the SCAI Questions is solely for ease of reference and does not reflect a hierarchy of importance.
 
