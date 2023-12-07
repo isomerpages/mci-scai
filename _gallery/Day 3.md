@@ -6,29 +6,29 @@ description: ""
 ---
 <div class="row" style="padding: 0px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_01.jpeg"><img src="/images/Day%203/scai_day_3_01.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_01.jpeg"><img src="/images/Day%203/scai_day_3_01.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_02.jpeg"><img src="/images/Day%203/scai_day_3_02.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_02.jpeg"><img src="/images/Day%203/scai_day_3_02.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_05.jpeg"><img src="/images/Day%203/scai_day_3_05.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_05.jpeg"><img src="/images/Day%203/scai_day_3_05.jpeg" alt="SCAI"></a></div>	
 
 </div>
 
 <div class="row" style="padding: 0px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_06.jpeg"><img src="/images/Day%203/scai_day_3_06.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_06.jpeg"><img src="/images/Day%203/scai_day_3_06.jpeg" alt="SCAI"></a></div>	
 
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_07.jpeg"><img src="/images/Day%203/scai_day_3_07.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_07.jpeg"><img src="/images/Day%203/scai_day_3_07.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_09.jpeg"><img src="/images/Day%203/scai_day_3_09.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_09.jpeg"><img src="/images/Day%203/scai_day_3_09.jpeg" alt="SCAI"></a></div>	
 	
 </div>
 
 <div class="row" style="padding: 0px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_11.jpeg"><img src="/images/Day%203/scai_day_3_11.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_11.jpeg"><img src="/images/Day%203/scai_day_3_11.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_12.jpeg"><img src="/images/Day%203/scai_day_3_12.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_12.jpeg"><img src="/images/Day%203/scai_day_3_12.jpeg" alt="SCAI"></a></div>	
 
 <div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_13.jpeg"><img src="/images/Day%203/scai_day_3_13.jpeg" alt="SCAI"></a></div>		
 	
