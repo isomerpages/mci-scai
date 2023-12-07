@@ -46,21 +46,21 @@ description: ""
 
 <div class="row" style="padding: 0px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_17.jpeg"><img src="/images/Day%203/scai_day_3_17.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_17.jpeg"><img src="/images/Day%203/scai_day_3_17.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_18.jpeg"><img src="/images/Day%203/scai_day_3_18.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_18.jpeg"><img src="/images/Day%203/scai_day_3_18.jpeg" alt="SCAI"></a></div>	
 
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_19.jpeg"><img src="/images/Day%203/scai_day_3_19.jpeg" alt="SCAI"></a></div>		
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_19.jpeg"><img src="/images/Day%203/scai_day_3_19.jpeg" alt="SCAI"></a></div>		
 	
 </div>
 
 <div class="row" style="padding: 0px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_22.jpeg"><img src="/images/Day%203/scai_day_3_22.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_22.jpeg"><img src="/images/Day%203/scai_day_3_22.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_23.jpeg"><img src="/images/Day%203/scai_day_3_23.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_23.jpeg"><img src="/images/Day%203/scai_day_3_23.jpeg" alt="SCAI"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%202/scai_day_3_24.jpeg"><img src="/images/Day%203/scai_day_3_24.jpeg" alt="SCAI"></a></div>	
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/images/Day%203/scai_day_3_24.jpeg"><img src="/images/Day%203/scai_day_3_24.jpeg" alt="SCAI"></a></div>	
 
 </div>
 
