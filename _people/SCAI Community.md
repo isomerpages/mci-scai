@@ -55,7 +55,7 @@ We are honoured to have these distinguished AI experts from various fields of ac
 	
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/silver-keskkula/"><img src="/images/People/silver_keskkula.jpeg" alt="Silver Keskküla"></a><br><strong>Silver KESKKÜLA</strong><br><span style="font-size:15px; line-height:15px"><em>Chief Executive Officer, trackAIanswers.com</em><br><br></span></div>
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/illyas-khan/"><img src="/images/People/illyas_khan_2.jpg" alt="Illyas Khan"></a><br><strong>Illyas KHAN</strong><br><span style="font-size:15px; line-height:15px"><em>Founder, Vice-Chairman and Chief Product Officer, Quantinuum</em></span></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/ilyas-khan/"><img src="/images/People/illyas_khan_2.jpg" alt="Ilyas Khan"></a><br><strong>Ilyas KHAN</strong><br><span style="font-size:15px; line-height:15px"><em>Founder, Vice-Chairman and Chief Product Officer, Quantinuum</em></span></div>
 
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/profiles/pang-wei-koh/"><img src="/images/People/pang_wei_koh.jpg" alt="Professor Pang Wei Koh"></a><br><strong>Professor Pang Wei KOH</strong><br><span style="font-size:15px; line-height:15px"><em>Assistant Professor of Computer Science, University of Washington</em></span><br><br></div>	
 	
