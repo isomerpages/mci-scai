@@ -1,10 +1,10 @@
 ---
-title: Illyas Khan
-permalink: /profiles/illyas-khan/
+title: Ilyas Khan
+permalink: /profiles/ilyas-khan/
 variant: markdown
 description: ""
 ---
-<div style="width:50%"><img src="/images/People/illyas_khan_2.jpg" alt="Illyas Khan"></div>
+<div style="width:50%"><img src="/images/People/illyas_khan_2.jpg" alt="Ilyas Khan"></div>
 
 **Ilyas KHAN**<br>*Founder, Vice-Chairman and Chief Product Officer* <br>*Quantinuum*<br>
 
