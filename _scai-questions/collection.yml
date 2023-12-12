@@ -2,6 +2,7 @@ collections:
   scai-questions:
     output: true
     order:
+      - Example Title.md
       - The SCAI Questions.md
       - List of Questions.md
       - SCAI Question 1.md
