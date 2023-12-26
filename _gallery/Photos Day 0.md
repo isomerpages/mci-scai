@@ -1,5 +1,5 @@
 ---
-title: Day 0
+title: Photos Day 0
 permalink: /gallery/day0/
 variant: markdown
 description: ""
