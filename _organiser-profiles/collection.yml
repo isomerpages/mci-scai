@@ -1,0 +1,18 @@
+collections:
+  organiser-profiles:
+    output: true
+    order:
+      - Dr Shaowei Lin.md
+      - Professor Vaughn Tan.md
+      - Eric Chua.md
+      - David Low.md
+      - Dr Bryan Low.md
+      - Asst Professor Lua Rui Ping.md
+      - Dr Clifton Phua.md
+      - Dr Reza Shokri.md
+      - Sng Ren Yeong.md
+      - Liana Tang.md
+      - Denise Wong.md
+      - Sutowo Wong.md
+      - Yik Jiawei.md
+      - Jeanette Kwek.md

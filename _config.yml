@@ -1,0 +1,61 @@
+title: Singapore Conference on AI (SCAI)
+url: https://www.scai.gov.sg
+favicon: /images/scai_favicon.png
+colors:
+  primary-color: "#132f4d"
+  secondary-color: "#4b789b"
+  media-colors:
+    - title: media-color-one
+      color: "#ecb91e"
+    - title: media-color-two
+      color: "#1e405e"
+    - title: media-color-three
+      color: "#4b789b"
+    - title: media-color-four
+      color: "#73a0c3"
+    - title: media-color-five
+      color: "#96bedc"
+description: The Singapore Conference on AI (SCAI) serves as a pivotal nexus,
+  bringing together an international array of AI experts from diverse
+  backgrounds in academia and industry.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging-lite.d2gjx43qd6vj9u.amplifyapp.com
+prod: https://master.d33ezci2rhx64k.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/scai_share.jpeg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
+resources_name: media-hub

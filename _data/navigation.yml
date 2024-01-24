@@ -1,0 +1,12 @@
+logo: /images/SCAI_logo.png
+links:
+  - title: The Goal
+    collection: goal
+  - title: The People
+    collection: people
+  - title: The Outcomes
+    collection: scai-questions
+  - title: Gallery
+    collection: gallery
+  - title: Media Hub
+    resource_room: true

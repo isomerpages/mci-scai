@@ -1,0 +1,9 @@
+collections:
+  gallery:
+    output: true
+    order:
+      - Highlights Video.md
+      - Photos Day 0.md
+      - Photos Day 1.md
+      - Photos Day 2.md
+      - Photos Day 3.md

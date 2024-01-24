@@ -1,0 +1,6 @@
+collections:
+  goal:
+    output: true
+    order:
+      - About SCAI.md
+      - Opening Remarks.md
