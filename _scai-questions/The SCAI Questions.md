@@ -2,7 +2,7 @@
 title: The SCAI Questions
 permalink: /foreword-scai-questions/
 variant: markdown
-description: ""
+description: The SCAI Questions
 ---
 ## Foreword to the SCAI Questions
 

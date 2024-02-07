@@ -2,7 +2,7 @@
 title: SCAI Question 4
 permalink: /scai-question-4/
 variant: markdown
-description: ""
+description: SCAI Question 4
 ---
 ## Solving Scientific Problems
 

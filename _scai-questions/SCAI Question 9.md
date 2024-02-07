@@ -2,7 +2,7 @@
 title: SCAI Question 9
 permalink: /scai-question-9/
 variant: markdown
-description: ""
+description: SCAI Question 9
 ---
 ## Mitigating Catastrophic Risks & Ongoing Harms
 

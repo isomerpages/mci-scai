@@ -2,7 +2,7 @@
 title: SCAI Question 1
 permalink: /scai-question-1/
 variant: markdown
-description: ""
+description: SCAI Question 1
 ---
 ## Reliability & Trustworthiness
 

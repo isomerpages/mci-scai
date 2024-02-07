@@ -2,7 +2,7 @@
 title: SCAI Question 11
 permalink: /scai-question-11/
 variant: markdown
-description: ""
+description: SCAI Question 11
 ---
 ## A Framework For Effective AI Adoption For Social Good
 

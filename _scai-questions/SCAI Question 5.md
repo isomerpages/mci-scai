@@ -2,7 +2,7 @@
 title: SCAI Question 5
 permalink: /scai-question-5/
 variant: markdown
-description: ""
+description: SCAI Question 5
 ---
 ## Models & Architecture Derived From Natural Intelligence
 

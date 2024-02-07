@@ -2,7 +2,7 @@
 title: SCAI Question 7
 permalink: /scai-question-7/
 variant: markdown
-description: ""
+description: SCAI Question 7
 ---
 ## Equitable Access, Control & Fair Competition
 

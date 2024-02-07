@@ -2,7 +2,7 @@
 title: SCAI Question 12
 permalink: /scai-question-12/
 variant: markdown
-description: ""
+description: SCAI Question 12
 ---
 ## Methodologies For AI Safety Evaluation
 

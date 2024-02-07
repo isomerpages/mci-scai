@@ -2,7 +2,7 @@
 title: SCAI Question 10
 permalink: /scai-question-10/
 variant: markdown
-description: ""
+description: SCAI Question 10
 ---
 ## Combating Mis/disinformation Campaigns
 

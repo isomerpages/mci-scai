@@ -2,7 +2,7 @@
 title: SCAI Question 8
 permalink: /scai-question-8/
 variant: markdown
-description: ""
+description: SCAI Question 8
 ---
 ## Transforming Education
 

@@ -2,7 +2,7 @@
 title: SCAI Question 2
 permalink: /scai-question-2/
 variant: markdown
-description: ""
+description: SCAI Question 2
 ---
 ## Data Collection & Sharing
 
