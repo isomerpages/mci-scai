@@ -2,7 +2,7 @@
 title: Jeremy Kranz
 permalink: /profiles/jeremy-kranz/
 variant: markdown
-description: ""
+description: Jeremy Kranz
 ---
 <div style="width:50%"><img src="/images/People/jeremy_kranz.jpeg" alt="Jeremy Kranz"></div>
 

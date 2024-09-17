@@ -2,7 +2,7 @@
 title: Dr He Ruimin
 permalink: /directors-profiles/he-ruimin/
 variant: markdown
-description: ""
+description: Dr He Ruimin
 ---
 <div style="width:50%"><img src="/images/People/he_ruimin.jpeg" alt="Dr He Ruimin"></div>
 

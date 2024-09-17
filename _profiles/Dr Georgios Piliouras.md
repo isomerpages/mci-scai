@@ -2,7 +2,7 @@
 title: Dr Georgios Piliouras
 permalink: /profiles/georgios-piliouras/
 variant: markdown
-description: ""
+description: Dr Georgios Piliouras
 ---
 <div style="width:50%"><img src="/images/People/georgios_piliouras.jpeg" alt="Dr Georgios Piliouras"></div>
 

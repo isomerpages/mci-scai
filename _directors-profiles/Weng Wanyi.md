@@ -2,7 +2,7 @@
 title: Weng Wanyi
 permalink: /directors-profiles/weng-wanyi/
 variant: markdown
-description: ""
+description: Weng Wanyi
 ---
 <div style="width:50%"><img src="/images/People/weng_wanyi.jpeg" alt="Weng Wanyi"></div>
 

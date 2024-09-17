@@ -2,7 +2,7 @@
 title: Iqbal Dhaliwal
 permalink: /profiles/iqbal-dhaliwal/
 variant: markdown
-description: ""
+description: Iqbal Dhaliwal
 ---
 <div style="width:50%"><img src="/images/People/iqbal_dhaliwal.jpeg" alt="Iqbal Dhaliwal"></div>
 

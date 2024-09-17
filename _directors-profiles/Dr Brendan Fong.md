@@ -2,7 +2,7 @@
 title: Dr Brendan Fong
 permalink: /directors-profiles/brendan-fong/
 variant: markdown
-description: ""
+description: Dr Brendan Fong
 ---
 <div style="width:50%"><img src="/images/People/brendan.jpeg" alt="Dr Brendan Fong"></div>
 

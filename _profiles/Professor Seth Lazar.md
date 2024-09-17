@@ -2,7 +2,7 @@
 title: Professor Seth Lazar
 permalink: /profiles/seth-lazar/
 variant: markdown
-description: ""
+description: Professor Seth Lazar
 ---
 <div style="width:50%"><img src="/images/People/seth_lazar.jpeg" alt="Professor Seth Lazar"></div>
 
