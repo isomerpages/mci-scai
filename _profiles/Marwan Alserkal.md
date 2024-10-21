@@ -2,7 +2,7 @@
 title: Marwan Alserkal
 permalink: /profiles/marwan-alserkal/
 variant: markdown
-description: ""
+description: Marwan Alserkal
 ---
 <div style="width:50%"><img src="/images/People/marwan_alserkal.jpeg" alt="Marwan Alserkal"></div>
 

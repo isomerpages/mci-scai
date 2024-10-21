@@ -2,7 +2,7 @@
 title: Dr Joscha Bach
 permalink: /profiles/joscha-bach/
 variant: markdown
-description: ""
+description: Dr Joscha Bach
 ---
 <div style="width:50%"><img src="/images/People/joscha_bach.jpeg" alt="Dr Joscha Bach"></div>
 

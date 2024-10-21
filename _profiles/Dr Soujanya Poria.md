@@ -2,7 +2,7 @@
 title: Dr Soujanya Poria
 permalink: /profiles/soujanya-poria/
 variant: markdown
-description: ""
+description: Dr Soujanya Poria
 ---
 <div style="width:50%"><img src="/images/People/soujanya_poria.jpeg" alt="Dr Soujanya Poria"></div>
 

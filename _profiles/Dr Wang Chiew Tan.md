@@ -2,7 +2,7 @@
 title: Dr Wang Chiew Tan
 permalink: /profiles/wang-chiew-tan/
 variant: markdown
-description: ""
+description: Dr Wang Chiew Tan
 ---
 <div style="width:50%"><img src="/images/People/wang_chiew_tan.jpeg" alt="Dr Wang-Chiew Tan"></div>
 

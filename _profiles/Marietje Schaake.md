@@ -2,7 +2,7 @@
 title: Marietje Schaake
 permalink: /profiles/marietje-schaake/
 variant: markdown
-description: ""
+description: Marietje Schaake
 ---
 <div style="width:50%"><img src="/images/People/marietje_schaake_2.jpeg" alt="Marietje Schaake"></div>
 

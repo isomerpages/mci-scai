@@ -2,7 +2,7 @@
 title: Professor Qi Yuan (Alan)
 permalink: /profiles/alan-qi/
 variant: markdown
-description: ""
+description: Professor Qi Yuan (Alan)
 ---
 <div style="width:50%"><img src="/images/People/qi_alan_2.jpeg" alt="Professor Alan Qi"></div>
 

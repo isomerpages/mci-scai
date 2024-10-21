@@ -2,7 +2,7 @@
 title: Dr Hong Jiang Zhang
 permalink: /profiles/hongjiang-zhang/
 variant: markdown
-description: ""
+description: Dr Hong Jiang Zhang
 ---
 <div style="width:50%"><img src="/images/People/hongjiang_zhang_2.JPG" alt="Dr HongJiang Zhang"></div>
 

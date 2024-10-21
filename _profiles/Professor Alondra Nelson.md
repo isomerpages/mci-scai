@@ -2,7 +2,7 @@
 title: Professor Alondra Nelson
 permalink: /profiles/alondra-nelson/
 variant: markdown
-description: ""
+description: Professor Alondra Nelson
 ---
 <div style="width:50%"><img src="/images/People/alondra_nelson_2.jpg" alt="Alondra Nelson"></div>
 

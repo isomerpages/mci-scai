@@ -2,7 +2,7 @@
 title: Dr Yaodong Yang
 permalink: /profiles/yaodong-yang/
 variant: markdown
-description: ""
+description: Dr Yaodong Yang
 ---
 <div style="width:50%"><img src="/images/People/yaodong_yang_2.jpg" alt="Dr Yaodong Yang"></div>
 

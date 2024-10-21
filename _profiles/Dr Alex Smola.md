@@ -2,7 +2,7 @@
 title: Dr Alex Smola
 permalink: /profiles/alex-smola/
 variant: markdown
-description: ""
+description: Dr Alex Smola
 ---
 <div style="width:50%"><img src="/images/People/alex_smola_2.jpg" alt="Dr Alex Smola"></div>
 

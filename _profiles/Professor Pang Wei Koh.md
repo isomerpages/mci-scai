@@ -2,7 +2,7 @@
 title: Professor Pang Wei Koh
 permalink: /profiles/pang-wei-koh/
 variant: markdown
-description: ""
+description: Professor Pang Wei Koh
 ---
 <div style="width:50%"><img src="/images/People/pang_wei_koh.jpg" alt="Professor Pang Wei Koh"></div>
 

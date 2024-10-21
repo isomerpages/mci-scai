@@ -2,7 +2,7 @@
 title: Professor Wong Tien Yin
 permalink: /profiles/wong-tien-yin/
 variant: markdown
-description: ""
+description: Professor Wong Tien Yin
 ---
 <div style="width:50%"><img src="/images/People/wong_tien_yin.jpeg" alt="Professor Wong Tien Yin"></div>
 

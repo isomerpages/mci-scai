@@ -2,7 +2,7 @@
 title: Professor Ho Teck Hua
 permalink: /profiles/ho-teck-hua/
 variant: markdown
-description: ""
+description: Professor Ho Teck Hua
 ---
 <div style="width:50%"><img src="/images/People/ho_teck_hua.jpeg" alt="Professor Ho Teck Hua"></div>
 

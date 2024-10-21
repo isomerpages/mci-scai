@@ -2,7 +2,7 @@
 title: Dr Andrew Critch
 permalink: /profiles/andrew-critch/
 variant: markdown
-description: ""
+description: Dr Andrew Critch
 ---
 <div style="width:50%"><img src="/images/People/andrew_critch.jpeg" alt="Dr Andrew Critch"></div>
 

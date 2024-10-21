@@ -2,7 +2,7 @@
 title: Professor Dawn Song
 permalink: /profiles/dawn-song/
 variant: markdown
-description: ""
+description: Professor Dawn Song
 ---
 <div style="width:50%"><img src="/images/People/dawn_2.jpg" alt="Professor Dawn Song"></div>
 

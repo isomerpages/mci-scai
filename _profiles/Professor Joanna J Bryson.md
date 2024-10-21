@@ -2,7 +2,7 @@
 title: Professor Joanna J Bryson
 permalink: /profiles/joanna-bryson/
 variant: markdown
-description: ""
+description: Professor Joanna J Bryson
 ---
 <div style="width:50%"><img src="/images/People/joanna_bryson_2.jpg" alt="Professor Joanna J. Bryson"></div>
 

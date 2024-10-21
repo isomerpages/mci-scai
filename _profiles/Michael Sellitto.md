@@ -2,7 +2,7 @@
 title: Michael Sellitto
 permalink: /profiles/michael-sellitto/
 variant: markdown
-description: ""
+description: Michael Sellitto
 ---
 <div style="width:50%"><img src="/images/People/michael_sellitto.jpeg" alt="Michael Sellitto"></div>
 

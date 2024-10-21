@@ -2,7 +2,7 @@
 title: James Kondo
 permalink: /profiles/james-kondo/
 variant: markdown
-description: ""
+description: James Kondo
 ---
 <div style="width:50%"><img src="/images/People/james_kondo_2.jpg" alt="James Kondo"></div>
 

@@ -2,7 +2,7 @@
 title: Dr Ryota Kanai
 permalink: /profiles/ryota-kanai/
 variant: markdown
-description: ""
+description: Dr Ryota Kanai
 ---
 <div style="width:50%"><img src="/images/People/ryota_kanai.jpeg" alt="Dr Ryota Kanai"></div>
 

@@ -2,7 +2,7 @@
 title: Irene Solaiman
 permalink: /profiles/irene-solaiman/
 variant: markdown
-description: ""
+description: Irene Solaiman
 ---
 <div style="width:50%"><img src="/images/People/irene_solaiman_2.jpg" alt="Irene Solaiman"></div>
 

@@ -2,7 +2,7 @@
 title: Sir Nigel Shadbolte
 permalink: /profiles/nigel-shadbolt/
 variant: markdown
-description: ""
+description: Sir Nigel Shadbolte
 ---
 <div style="width:50%"><img src="/images/People/nigel_shadbolt_2.jpg" alt="Sir Nigel Shadbolte"></div>
 

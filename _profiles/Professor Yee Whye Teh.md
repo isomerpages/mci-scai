@@ -2,7 +2,7 @@
 title: Professor Yee Whye Teh
 permalink: /profiles/yee-whye-teh/
 variant: markdown
-description: ""
+description: Professor Yee Whye Teh
 ---
 <div style="width:50%"><img src="/images/People/yee_whye_teh_2.jpg" alt="Professor Yee-Whye Teh"></div>
 

@@ -2,7 +2,7 @@
 title: Silver Keskküla
 permalink: /profiles/silver-keskkula/
 variant: markdown
-description: ""
+description: Silver Keskküla
 ---
 <div style="width:50%"><img src="/images/People/silver_keskkula.jpeg" alt="Silver Keskküla"></div>
 

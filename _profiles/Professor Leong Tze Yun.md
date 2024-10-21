@@ -2,7 +2,7 @@
 title: Professor Leong Tze Yun
 permalink: /profiles/leong-tze-yun/
 variant: markdown
-description: ""
+description: Professor Leong Tze Yun
 ---
 <div style="width:50%"><img src="/images/People/leong_tze_yun_2.jpg" alt="Professor Leong Tze Yun"></div>
 

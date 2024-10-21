@@ -2,7 +2,7 @@
 title: Jutta Williams
 permalink: /profiles/jutta-williams/
 variant: markdown
-description: ""
+description: Jutta Williams
 ---
 <div style="width:50%"><img src="/images/People/jutta_williams.jpeg" alt="Jutta Williams"></div>
 

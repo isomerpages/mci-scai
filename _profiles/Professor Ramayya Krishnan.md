@@ -2,7 +2,7 @@
 title: Professor Ramayya Krishnan
 permalink: /profiles/ramayya-krishnan/
 variant: markdown
-description: ""
+description: Professor Ramayya Krishnan
 ---
 <div style="width:50%"><img src="/images/People/ramayya_krishnan.jpeg" alt="Professor Ramayya Krishnan"></div>
 

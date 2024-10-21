@@ -2,7 +2,7 @@
 title: Ilyas Khan
 permalink: /profiles/ilyas-khan/
 variant: markdown
-description: ""
+description: Ilyas Khan
 ---
 <div style="width:50%"><img src="/images/People/illyas_khan_2.jpg" alt="Ilyas Khan"></div>
 

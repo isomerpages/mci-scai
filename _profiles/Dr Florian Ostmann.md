@@ -2,7 +2,7 @@
 title: Dr Florian Ostmann
 permalink: /profiles/florian-ostmann/
 variant: markdown
-description: ""
+description: Dr Florian Ostmann
 ---
 <div style="width:50%"><img src="/images/People/florian_ostmann.jpeg" alt="Dr Florian Ostmann"></div>
 

@@ -2,7 +2,7 @@
 title: Brian Tse
 permalink: /profiles/brian-tse/
 variant: markdown
-description: ""
+description: Brian Tse
 ---
 <div style="width:50%"><img src="/images/People/brian_tse.jpeg" alt="Brian Tse"></div>
 

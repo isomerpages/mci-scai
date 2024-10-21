@@ -2,7 +2,7 @@
 title: Dr Chen Jiahao
 permalink: /profiles/chen-jiahao/
 variant: markdown
-description: ""
+description: Dr Chen Jiahao
 ---
 <div style="width:50%"><img src="/images/People/chen_jiahao.jpeg" alt="Dr Chen Jiahao"></div>
 

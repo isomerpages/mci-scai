@@ -2,7 +2,7 @@
 title: Calvin Chin
 permalink: /profiles/calvin-chin/
 variant: markdown
-description: ""
+description: Calvin Chin
 ---
 <div style="width:50%"><img src="/images/People/calvin_chin.jpeg" alt="Calvin Chin"></div>
 

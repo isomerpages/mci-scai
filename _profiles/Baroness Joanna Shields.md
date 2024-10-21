@@ -2,7 +2,7 @@
 title: Baroness Joanna Shields
 permalink: /profiles/baroness-joanna-shields/
 variant: markdown
-description: ""
+description: Baroness Joanna Shields
 ---
 <div style="width:50%"><img src="/images/People/baroness_joanna_shields.jpeg" alt="Baroness Joanna Shields"></div>
 

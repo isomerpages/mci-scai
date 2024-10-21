@@ -2,7 +2,7 @@
 title: Benedict Evans
 permalink: /profiles/benedict-evans/
 variant: markdown
-description: ""
+description: Benedict Evans
 ---
 <div style="width:50%"><img src="/images/People/benedict_evan.jpeg" alt="Benedict Evans"></div>
 

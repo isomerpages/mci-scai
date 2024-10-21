@@ -2,7 +2,7 @@
 title: Dr Rumman Chowdhury
 permalink: /profiles/rumman-chowdhury/
 variant: markdown
-description: ""
+description: Dr Rumman Chowdhury
 ---
 <div style="width:50%"><img src="/images/People/rumman_chowdhury_2.png" alt="Rumman Chowdhury"></div>
 

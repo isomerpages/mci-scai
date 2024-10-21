@@ -2,7 +2,7 @@
 title: Dr Steven Hoi
 permalink: /profiles/steven-hoi/
 variant: markdown
-description: ""
+description: Dr Steven Hoi
 ---
 <div style="width:50%"><img src="/images/People/steven_hoi.jpeg" alt="Dr Steven Hoi"></div>
 

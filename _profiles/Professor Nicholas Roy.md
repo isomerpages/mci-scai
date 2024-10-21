@@ -2,7 +2,7 @@
 title: Professor Nicholas Roy
 permalink: /profiles/nicholas-roy/
 variant: markdown
-description: ""
+description: Professor Nicholas Roy
 ---
 <div style="width:50%"><img src="/images/People/nicholas_roy.jpeg" alt="Professor Nicholas Roy"></div>
 

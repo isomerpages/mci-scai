@@ -2,7 +2,7 @@
 title: Professor Wolfgang Maass
 permalink: /profiles/wolfgang-maass/
 variant: markdown
-description: ""
+description: Professor Wolfgang Maass
 ---
 <div style="width:50%"><img src="/images/People/wolfgang_maass.jpeg" alt="Professor Wolfgang Maass"></div>
 

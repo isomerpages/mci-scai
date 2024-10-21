@@ -2,7 +2,7 @@
 title: Jaan Tallinn
 permalink: /profiles/jaan-tallinn/
 variant: markdown
-description: ""
+description: Jaan Tallinn
 ---
 <div style="width:50%"><img src="/images/People/jaan_tallinn.jpeg" alt="Jaan Tallinn"></div>
 
