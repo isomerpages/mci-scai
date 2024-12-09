@@ -2,7 +2,7 @@
 title: Dr Reza Shokri
 permalink: /organiser-profiles/reza-shokri/
 variant: markdown
-description: ""
+description: Dr Reza Shokri
 ---
 <div style="width:50%"><img src="/images/People/reza_shokri.jpeg" alt="Dr Reza Shokri"></div>
 

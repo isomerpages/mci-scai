@@ -2,7 +2,7 @@
 title: Sng Ren Yeong
 permalink: /organiser-profiles/ren-yeong/
 variant: markdown
-description: ""
+description: Sng Ren Yeong
 ---
 <div style="width:50%"><img src="/images/People/ren_yeong.jpg" alt="Sng Ren Yeong"></div>
 

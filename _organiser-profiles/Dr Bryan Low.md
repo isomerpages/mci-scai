@@ -2,7 +2,7 @@
 title: Dr Bryan Low
 permalink: /organiser-profiles/bryan-low/
 variant: markdown
-description: ""
+description: Dr Bryan Low
 ---
 <div style="width:50%"><img src="/images/People/bryan_low.jpeg" alt="Dr Bryan Low"></div>
 

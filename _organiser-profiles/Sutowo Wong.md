@@ -2,7 +2,7 @@
 title: Sutowo Wong
 permalink: /organiser-profiles/sutowo-wong/
 variant: markdown
-description: ""
+description: Sutowo Wong
 ---
 <div style="width:50%"><img src="/images/People/sutowo_wong.jpeg" alt="Sutowo Wong"></div>
 

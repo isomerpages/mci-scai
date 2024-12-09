@@ -2,7 +2,7 @@
 title: Professor Vaughn Tan
 permalink: /organiser-profiles/vaughn-tan/
 variant: markdown
-description: ""
+description: Professor Vaughn Tan
 ---
 <div style="width:50%"><img src="/images/People/vaughn_tan.jpeg" alt="Professor Vaughn Tan"></div>
 

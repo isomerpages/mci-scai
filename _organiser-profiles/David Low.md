@@ -2,7 +2,7 @@
 title: David Low
 permalink: /organiser-profiles/david-low/
 variant: markdown
-description: ""
+description: David Low
 ---
 <div style="width:50%"><img src="/images/People/david_low.jpeg" alt="David Low"></div>
 

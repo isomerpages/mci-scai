@@ -2,7 +2,7 @@
 title: Yik Jiawei
 permalink: /organiser-profiles/yik-jiawei/
 variant: markdown
-description: ""
+description: Yik Jiawei
 ---
 <div style="width:50%"><img src="/images/People/yik_jiawei.jpeg" alt="Yik Jiawei"></div>
 

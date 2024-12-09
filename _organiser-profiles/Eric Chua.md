@@ -2,7 +2,7 @@
 title: Eric Chua
 permalink: /organiser-profiles/eric-chua/
 variant: markdown
-description: ""
+description: Eric Chua
 ---
 <div style="width:50%"><img src="/images/People/eric_chua.jpeg" alt="Eric Chua"></div>
 

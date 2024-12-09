@@ -2,7 +2,7 @@
 title: Dr Shaowei Lin
 permalink: /organiser-profiles/shaowei-lin/
 variant: markdown
-description: ""
+description: Dr Shaowei Lin
 ---
 <div style="width:50%"><img src="/images/People/shaowei.jpeg" alt="Dr Shaowei Lin"></div>
 

@@ -2,7 +2,7 @@
 title: Liana Tang
 permalink: /organiser-profiles/liana-tang/
 variant: markdown
-description: ""
+description: Liana Tang
 ---
 <div style="width:50%"><img src="/images/People/liana_tang.jpeg" alt="Liana Tang"></div>
 

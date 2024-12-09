@@ -2,7 +2,7 @@
 title: Asst Professor Lua Rui Ping
 permalink: /organiser-profiles/rui-ping/
 variant: markdown
-description: ""
+description: Asst Professor Lua Rui Ping
 ---
 <div style="width:50%"><img src="/images/People/rui_ping.jpeg" alt="Asst Professor Lua Rui Ping"></div>
 

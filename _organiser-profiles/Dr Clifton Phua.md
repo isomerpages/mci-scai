@@ -2,7 +2,7 @@
 title: Dr Clifton Phua
 permalink: /organiser-profiles/clifton-phua/
 variant: markdown
-description: ""
+description: Dr Clifton Phua
 ---
 <div style="width:50%"><img src="/images/People/clifton_phua.jpeg" alt="Dr Clifton Phua"></div>
 

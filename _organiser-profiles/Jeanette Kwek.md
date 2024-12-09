@@ -2,7 +2,7 @@
 title: Jeanette Kwek
 permalink: /organiser-profiles/jeanette-kwek/
 variant: markdown
-description: ""
+description: Jeanette Kwek
 ---
 <div style="width:50%"><img src="/images/People/jeanette_kwek.jpeg" alt="Jeanette Kwek"></div>
 

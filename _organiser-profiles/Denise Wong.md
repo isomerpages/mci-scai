@@ -2,7 +2,7 @@
 title: Denise Wong
 permalink: /organiser-profiles/denise-wong/
 variant: markdown
-description: ""
+description: Denise Wong
 ---
 <div style="width:50%"><img src="/images/People/denise_wong.jpeg" alt="Denise Wong"></div>
 
